@@ -1,0 +1,5763 @@
+[
+  {
+    "model": "apis.schools",
+    "pk": 6,
+    "fields": {
+      "name": "โรงเรียนตัวอย่างที่ 6",
+      "abbreviation": "ร.ร.6",
+      "address": "84/10 ถ.ไชยภา ป่าเขาขาว ปัตตานี 33260"
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 66,
+    "fields": {
+      "class_level": "ม.6",
+      "room": "8",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 169,
+    "fields": {
+      "name": "วรรณชนะชัย",
+      "last_name": "ทรงโกมล",
+      "sex": "MALE",
+      "class_room": [
+        66
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 170,
+    "fields": {
+      "name": "อนุวัช",
+      "last_name": "ธีวร",
+      "sex": "FEMALE",
+      "class_room": [
+        66
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2618,
+    "fields": {
+      "name": "คมสัน",
+      "last_name": "ซูสารอ",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2619,
+    "fields": {
+      "name": "ราชพฤกษ์",
+      "last_name": "นักสำหรวจ",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2620,
+    "fields": {
+      "name": "รัฐพงษ์",
+      "last_name": "ถมังรักษสัตว์",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2621,
+    "fields": {
+      "name": "ภูวิช",
+      "last_name": "ดาบเพ็ชร์",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2622,
+    "fields": {
+      "name": "สันชัย",
+      "last_name": "ฉัพพรรณธนกูร",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2623,
+    "fields": {
+      "name": "ศรายุธ",
+      "last_name": "นิลวิมล",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2624,
+    "fields": {
+      "name": "ธัชญา",
+      "last_name": "พงศ์ฉบับนภา",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2625,
+    "fields": {
+      "name": "พิไลพร",
+      "last_name": "เจริญรัมย์",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2626,
+    "fields": {
+      "name": "เชิงชาย",
+      "last_name": "ตัณฑนุช",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2627,
+    "fields": {
+      "name": "เนตรฤดี",
+      "last_name": "วุฑฒยากร",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2628,
+    "fields": {
+      "name": "พัสวี",
+      "last_name": "บุนยะศัพท์",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2629,
+    "fields": {
+      "name": "นิรันดร์",
+      "last_name": "ดาบเงิน",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2630,
+    "fields": {
+      "name": "จักรชัย",
+      "last_name": "ถนอมกุลบุตร",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2631,
+    "fields": {
+      "name": "เชิงชาย",
+      "last_name": "ศรีเผด็จ",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2632,
+    "fields": {
+      "name": "นราวรรณ",
+      "last_name": "เนื้อนุ่ม",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2633,
+    "fields": {
+      "name": "มนรัตน์",
+      "last_name": "ติระคมน์",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2634,
+    "fields": {
+      "name": "อารีย์",
+      "last_name": "แนวพนิช",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2635,
+    "fields": {
+      "name": "เพทาย",
+      "last_name": "แนวพญา",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2636,
+    "fields": {
+      "name": "ทิพย์วารี",
+      "last_name": "ยางสวย",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2637,
+    "fields": {
+      "name": "ฐิติกุล",
+      "last_name": "ทำประดู่",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2638,
+    "fields": {
+      "name": "ฮาฟิต",
+      "last_name": "ธูปหอม",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2639,
+    "fields": {
+      "name": "พิมพ์พิชญา",
+      "last_name": "ตราชู",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2640,
+    "fields": {
+      "name": "อภิลักษณ์",
+      "last_name": "สงประเสริฐ",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2641,
+    "fields": {
+      "name": "รักชนก",
+      "last_name": "ตัณสถิตย์",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2642,
+    "fields": {
+      "name": "มารุด",
+      "last_name": "พรมอ่อน",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2643,
+    "fields": {
+      "name": "ซูฮัยดา",
+      "last_name": "เธียรายัน",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2644,
+    "fields": {
+      "name": "เอนกพงศ์",
+      "last_name": "แนวพญา",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2645,
+    "fields": {
+      "name": "ปิยวัจน์",
+      "last_name": "ราชมณี",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2646,
+    "fields": {
+      "name": "บุญทิวา",
+      "last_name": "ฉัตรอภิเที่ยงค่ำ",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2647,
+    "fields": {
+      "name": "ศรลักษณ์",
+      "last_name": "ปานสุวรรณ",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2648,
+    "fields": {
+      "name": "จุฑารัตน์",
+      "last_name": "นิลสลัว",
+      "sex": "FEMALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2649,
+    "fields": {
+      "name": "ญาณพันธุ์",
+      "last_name": "ทัศนสุทธิ",
+      "sex": "MALE",
+      "class_room": 66
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 67,
+    "fields": {
+      "class_level": "ป.1",
+      "room": "9",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 171,
+    "fields": {
+      "name": "ชลิดา",
+      "last_name": "ทองอยู่",
+      "sex": "FEMALE",
+      "class_room": [
+        67
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 172,
+    "fields": {
+      "name": "วรรณาต",
+      "last_name": "ทองอยู่",
+      "sex": "MALE",
+      "class_room": [
+        67
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 173,
+    "fields": {
+      "name": "วิเชียร",
+      "last_name": "ชำนาญวาด",
+      "sex": "MALE",
+      "class_room": [
+        67
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2650,
+    "fields": {
+      "name": "ชัญญานุนาย",
+      "last_name": "ธรรมเมธา",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2651,
+    "fields": {
+      "name": "อัญชิษฐา",
+      "last_name": "อัตตนาถ",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2652,
+    "fields": {
+      "name": "ชรินทร์ทิพย์",
+      "last_name": "ทองสีไพล",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2653,
+    "fields": {
+      "name": "โชติวุฒิ",
+      "last_name": "วะคีมัน",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2654,
+    "fields": {
+      "name": "ธวัศชา",
+      "last_name": "ดวงทับทิม",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2655,
+    "fields": {
+      "name": "นาวีตา",
+      "last_name": "ถนอมมนุษย์",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2656,
+    "fields": {
+      "name": "เอนกพงศ์",
+      "last_name": "แน่นดุจป้อม",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2657,
+    "fields": {
+      "name": "ดารุนี",
+      "last_name": "ทองสินธุ์",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2658,
+    "fields": {
+      "name": "วนาลี",
+      "last_name": "นะวะมันดร",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2659,
+    "fields": {
+      "name": "พิมพ์สุตา",
+      "last_name": "นานายน",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2660,
+    "fields": {
+      "name": "ผกาทิพย์",
+      "last_name": "ชุมวระ",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2661,
+    "fields": {
+      "name": "สุมัชญา",
+      "last_name": "ดีตพันธุ์",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2662,
+    "fields": {
+      "name": "หรรษธร",
+      "last_name": "นำธวัช",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2663,
+    "fields": {
+      "name": "ไชยภพ",
+      "last_name": "ขอหมั่นกลาง",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2664,
+    "fields": {
+      "name": "ธาเอก",
+      "last_name": "ทวนไชย์",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2665,
+    "fields": {
+      "name": "อัครพนธ์",
+      "last_name": "ธรรมฤดี",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2666,
+    "fields": {
+      "name": "จักรชัย",
+      "last_name": "ฉายแสง",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2667,
+    "fields": {
+      "name": "จักรกฤนาย",
+      "last_name": "ธาราธร",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2668,
+    "fields": {
+      "name": "ใจกลาง",
+      "last_name": "ตั้งกุลงาม",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2669,
+    "fields": {
+      "name": "พีรภัทร์",
+      "last_name": "ทัศนสุทธิ",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2670,
+    "fields": {
+      "name": "ปัณณวัชร",
+      "last_name": "ศรทอง",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2671,
+    "fields": {
+      "name": "เกศรา",
+      "last_name": "บุตราช",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2672,
+    "fields": {
+      "name": "ยูซุฟ",
+      "last_name": "ทองเนื้อดี",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2673,
+    "fields": {
+      "name": "ปิยวัจน์",
+      "last_name": "เตชะกำพุ",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2674,
+    "fields": {
+      "name": "ธนกิตต์",
+      "last_name": "โพธิสัตย์",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2675,
+    "fields": {
+      "name": "ราณี",
+      "last_name": "เตชะกำพุ",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2676,
+    "fields": {
+      "name": "ฐิติกุล",
+      "last_name": "ถ้วนศรี",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2677,
+    "fields": {
+      "name": "ชรินทร์ทิพย์",
+      "last_name": "ไม้แดง",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2678,
+    "fields": {
+      "name": "สิริ",
+      "last_name": "นรวิทย์โชติกุล",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2679,
+    "fields": {
+      "name": "เพทาย",
+      "last_name": "เจริญรัมย์",
+      "sex": "MALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2680,
+    "fields": {
+      "name": "ประวี",
+      "last_name": "ด้วงโสน",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2681,
+    "fields": {
+      "name": "ยุลิน",
+      "last_name": "นวลเพ็ง",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2682,
+    "fields": {
+      "name": "ณัฐติญา",
+      "last_name": "ไทนิยม",
+      "sex": "FEMALE",
+      "class_room": 67
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 68,
+    "fields": {
+      "class_level": "ม.5",
+      "room": "4",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 174,
+    "fields": {
+      "name": "ศภัคชคง",
+      "last_name": "ธาราธร",
+      "sex": "MALE",
+      "class_room": [
+        68
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 175,
+    "fields": {
+      "name": "อุดมลักษณ์",
+      "last_name": "โพธิสัตย์",
+      "sex": "MALE",
+      "class_room": [
+        68
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2683,
+    "fields": {
+      "name": "สัญชาน",
+      "last_name": "ถมปัด",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2684,
+    "fields": {
+      "name": "ณัฐธิตา",
+      "last_name": "ดาวกระจาย",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2685,
+    "fields": {
+      "name": "พันธุ์เทพ",
+      "last_name": "ตัณสถิตย์",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2686,
+    "fields": {
+      "name": "จริยฉัตร",
+      "last_name": "ตั้งกุลงาม",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2687,
+    "fields": {
+      "name": "ซูไรดา",
+      "last_name": "ทีฆะ",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2688,
+    "fields": {
+      "name": "กฤตพร",
+      "last_name": "นพตระกูล",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2689,
+    "fields": {
+      "name": "กรพนธ์",
+      "last_name": "ตระกูลบุญ",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2690,
+    "fields": {
+      "name": "ภูมิปัญญา",
+      "last_name": "ศรีสัตย์",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2691,
+    "fields": {
+      "name": "นาตยา",
+      "last_name": "ทองเนื้อดี",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2692,
+    "fields": {
+      "name": "สมปอง",
+      "last_name": "ขอหมั่นกลาง",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2693,
+    "fields": {
+      "name": "ปฐวีกานต์",
+      "last_name": "ทองสินธุ์",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2694,
+    "fields": {
+      "name": "วันฉัตร",
+      "last_name": "งามพิเชษฐ์",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2695,
+    "fields": {
+      "name": "จันทนา",
+      "last_name": "เตชะกำพุ",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2696,
+    "fields": {
+      "name": "นรีกานต์",
+      "last_name": "นครเทพ",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2697,
+    "fields": {
+      "name": "ปภาวรินทร์",
+      "last_name": "นามขำ",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2698,
+    "fields": {
+      "name": "เทพณรงค์",
+      "last_name": "วิลาสินี",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2699,
+    "fields": {
+      "name": "ณัฐติญา",
+      "last_name": "วิลาสินี",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2700,
+    "fields": {
+      "name": "ราณี",
+      "last_name": "ตะละภัฏ",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2701,
+    "fields": {
+      "name": "ฐิตาพร",
+      "last_name": "ตันเผ่า",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2702,
+    "fields": {
+      "name": "วรศาสส์",
+      "last_name": "ทองอยู่",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2703,
+    "fields": {
+      "name": "กองสิน",
+      "last_name": "นานายน",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2704,
+    "fields": {
+      "name": "ธารา",
+      "last_name": "ถุงเงิน",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2705,
+    "fields": {
+      "name": "ปรายกานต์",
+      "last_name": "นิติสาขา",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2706,
+    "fields": {
+      "name": "สราญจิตต์",
+      "last_name": "พานเกล้า",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2707,
+    "fields": {
+      "name": "เทียมศักดิ์",
+      "last_name": "ดิศดใน",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2708,
+    "fields": {
+      "name": "สมมล",
+      "last_name": "ถนัดรักษา",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2709,
+    "fields": {
+      "name": "ปิยวัจน์",
+      "last_name": "บุญญาไลย์",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2710,
+    "fields": {
+      "name": "จิตรลดา",
+      "last_name": "ขอหมั่นกลาง",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2711,
+    "fields": {
+      "name": "หลักทรัพย์",
+      "last_name": "นกทอง",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2712,
+    "fields": {
+      "name": "ปาริตา",
+      "last_name": "ธรรมฤดี",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2713,
+    "fields": {
+      "name": "อณัฐตา",
+      "last_name": "ถนอมพล",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2714,
+    "fields": {
+      "name": "สมใจ",
+      "last_name": "ธรรมฤดี",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2715,
+    "fields": {
+      "name": "อุลัยพร",
+      "last_name": "ศาสตร์ศิลป์",
+      "sex": "FEMALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2716,
+    "fields": {
+      "name": "สุทกร",
+      "last_name": "นครเทพ",
+      "sex": "MALE",
+      "class_room": 68
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 69,
+    "fields": {
+      "class_level": "ม.1",
+      "room": "6",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 176,
+    "fields": {
+      "name": "ยุศรอน",
+      "last_name": "นิลเสนา",
+      "sex": "FEMALE",
+      "class_room": [
+        69
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 177,
+    "fields": {
+      "name": "จิรวิทย์",
+      "last_name": "ทศโยธิน",
+      "sex": "MALE",
+      "class_room": [
+        69
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 178,
+    "fields": {
+      "name": "เกษมชัย",
+      "last_name": "ร่มธิติรัตน์",
+      "sex": "MALE",
+      "class_room": [
+        69
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2717,
+    "fields": {
+      "name": "นรีรัตน์",
+      "last_name": "หนุนสุข",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2718,
+    "fields": {
+      "name": "เนติลักษณ์",
+      "last_name": "นิลสุวรรณ์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2719,
+    "fields": {
+      "name": "อัญธิกา",
+      "last_name": "บุนยะตีรณะ",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2720,
+    "fields": {
+      "name": "ศุภชัย",
+      "last_name": "นิลเสนา",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2721,
+    "fields": {
+      "name": "พันเกล้า",
+      "last_name": "เลขะพันธุ์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2722,
+    "fields": {
+      "name": "ซูรัยดา",
+      "last_name": "นำธวัช",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2723,
+    "fields": {
+      "name": "สุทธิณัฐ",
+      "last_name": "นิยมธรรม",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2724,
+    "fields": {
+      "name": "ปิยะนันท์",
+      "last_name": "เจริญรัมย์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2725,
+    "fields": {
+      "name": "อาฮามัด",
+      "last_name": "ตระกูลไม้เรียง",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2726,
+    "fields": {
+      "name": "เรืองเกียรติ",
+      "last_name": "ตันเผ่า",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2727,
+    "fields": {
+      "name": "สมใจ",
+      "last_name": "ผลบุญ",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2728,
+    "fields": {
+      "name": "กวีฉัฏฐ",
+      "last_name": "ทองสินธุ์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2729,
+    "fields": {
+      "name": "จริยฉัตร",
+      "last_name": "ถนัดการยนต์",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2730,
+    "fields": {
+      "name": "กนกเนตร",
+      "last_name": "ธาราธร",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2731,
+    "fields": {
+      "name": "ภัทราวุธ",
+      "last_name": "พรมอ่อน",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2732,
+    "fields": {
+      "name": "ณปภัช",
+      "last_name": "นิติสาขา",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2733,
+    "fields": {
+      "name": "ยศวัฒน์",
+      "last_name": "ดุริยพันธุ์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2734,
+    "fields": {
+      "name": "สรรเพชญ์",
+      "last_name": "ทองปากน้ำ",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2735,
+    "fields": {
+      "name": "สุทกร",
+      "last_name": "ดีตพันธุ์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2736,
+    "fields": {
+      "name": "จณิตตา",
+      "last_name": "ไตรบรรพ",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2737,
+    "fields": {
+      "name": "กุลเชษฐ",
+      "last_name": "ฉิมพาลี",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2738,
+    "fields": {
+      "name": "ปิยบุตร",
+      "last_name": "ทีฆะ",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2739,
+    "fields": {
+      "name": "นิมุ",
+      "last_name": "ทองอยู่",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2740,
+    "fields": {
+      "name": "พลานุช",
+      "last_name": "ซาซุม",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2741,
+    "fields": {
+      "name": "ผดุงพล",
+      "last_name": "นฤภัย",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2742,
+    "fields": {
+      "name": "สุปรานี",
+      "last_name": "ตระกูลบุญ",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2743,
+    "fields": {
+      "name": "พีระพงศ์พันธ์",
+      "last_name": "แท่นทอง",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2744,
+    "fields": {
+      "name": "ภานุพล",
+      "last_name": "เนื่องนนท์",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2745,
+    "fields": {
+      "name": "ธนนนท์",
+      "last_name": "ตวงทอง",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2746,
+    "fields": {
+      "name": "ฐิตาพร",
+      "last_name": "ยางสวย",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2747,
+    "fields": {
+      "name": "เลิศเดช",
+      "last_name": "ทันยุค",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2748,
+    "fields": {
+      "name": "ธเนษฐ",
+      "last_name": "บุนยาภิสนท์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2749,
+    "fields": {
+      "name": "สันชัย",
+      "last_name": "ดาบเงิน",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2750,
+    "fields": {
+      "name": "ปัณณธร",
+      "last_name": "ถาวระวรณ์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2751,
+    "fields": {
+      "name": "ณัฐศักดิ์",
+      "last_name": "ดีตพันธุ์",
+      "sex": "MALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2752,
+    "fields": {
+      "name": "อัษฏา",
+      "last_name": "ถะเกิงชศ",
+      "sex": "FEMALE",
+      "class_room": 69
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 70,
+    "fields": {
+      "class_level": "ป.5",
+      "room": "7",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 179,
+    "fields": {
+      "name": "ภัทราวุธ",
+      "last_name": "ทองลาภ",
+      "sex": "MALE",
+      "class_room": [
+        70
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 180,
+    "fields": {
+      "name": "ณัฐพิชา",
+      "last_name": "นุชแนวนุ่ม",
+      "sex": "FEMALE",
+      "class_room": [
+        70
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2753,
+    "fields": {
+      "name": "หรรษธร",
+      "last_name": "ถนอมมนุษย์",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2754,
+    "fields": {
+      "name": "พรรณปพร",
+      "last_name": "คำลือ",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2755,
+    "fields": {
+      "name": "ธราวิทญ์",
+      "last_name": "มิ่งขวัญ",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2756,
+    "fields": {
+      "name": "ณิชาภัทร",
+      "last_name": "ฉัตรอภิเที่ยงค่ำ",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2757,
+    "fields": {
+      "name": "วิทูลย์",
+      "last_name": "ดำริห์ชอบ",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2758,
+    "fields": {
+      "name": "จีราภรณ์",
+      "last_name": "ตัณฑนุช",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2759,
+    "fields": {
+      "name": "วรศาสส์",
+      "last_name": "สงประเสริฐ",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2760,
+    "fields": {
+      "name": "ภูวฤณ",
+      "last_name": "ชำนาญวาด",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2761,
+    "fields": {
+      "name": "สมหมาย",
+      "last_name": "นำธวัช",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2762,
+    "fields": {
+      "name": "สุรนัย",
+      "last_name": "หอมสิน",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2763,
+    "fields": {
+      "name": "โรสชา",
+      "last_name": "ทรัพย์สาร",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2764,
+    "fields": {
+      "name": "นิติ",
+      "last_name": "สันตะวงศ์",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2765,
+    "fields": {
+      "name": "พรเบญญา",
+      "last_name": "ตันยา",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2766,
+    "fields": {
+      "name": "ธเนษฐ",
+      "last_name": "ปรีชากุลเศรษฐ์",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2767,
+    "fields": {
+      "name": "วัลลภ",
+      "last_name": "สันตะวงศ์",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2768,
+    "fields": {
+      "name": "ตรีนุช",
+      "last_name": "พงศ์ฉบับนภา",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2769,
+    "fields": {
+      "name": "อัษฏา",
+      "last_name": "สงประเสริฐ",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2770,
+    "fields": {
+      "name": "ธราวิทญ์",
+      "last_name": "อัตตนาถ",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2771,
+    "fields": {
+      "name": "อารีย์",
+      "last_name": "บุณยะภาชน์",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2772,
+    "fields": {
+      "name": "อนุวัช",
+      "last_name": "ถนอมพลกรัง",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2773,
+    "fields": {
+      "name": "อดิสรณ์",
+      "last_name": "ทองสีไพล",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2774,
+    "fields": {
+      "name": "นิติยา",
+      "last_name": "บุณยะภาชน์",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2775,
+    "fields": {
+      "name": "กิติวัฒน์",
+      "last_name": "สงประเสริฐ",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2776,
+    "fields": {
+      "name": "ณิชนันท์",
+      "last_name": "ดุษฎีวนิช",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2777,
+    "fields": {
+      "name": "ณัฐพิชา",
+      "last_name": "ทองลาภ",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2778,
+    "fields": {
+      "name": "ศุภกรชนา",
+      "last_name": "ฉายแสง",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2779,
+    "fields": {
+      "name": "จำรัส",
+      "last_name": "พีระเพ็ญกุล",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2780,
+    "fields": {
+      "name": "หลี",
+      "last_name": "หิรัญสาลี",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2781,
+    "fields": {
+      "name": "ศรายุธ",
+      "last_name": "ธนรักษ์",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2782,
+    "fields": {
+      "name": "เฉลิมพล",
+      "last_name": "ตันยา",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2783,
+    "fields": {
+      "name": "ประสิทธิ์",
+      "last_name": "กุมารบุญ",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2784,
+    "fields": {
+      "name": "กันตวรรณ",
+      "last_name": "นิลเสนา",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2785,
+    "fields": {
+      "name": "จิณภัทตา",
+      "last_name": "นิลสลัว",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2786,
+    "fields": {
+      "name": "เกษมชัย",
+      "last_name": "นาคะนคร",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2787,
+    "fields": {
+      "name": "ทองรัตน์",
+      "last_name": "หิรัญสาลี",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2788,
+    "fields": {
+      "name": "ปิ่นบุญญา",
+      "last_name": "ทองเนื้อดี",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2789,
+    "fields": {
+      "name": "เกษมชัย",
+      "last_name": "ถนอมมนุษย์",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2790,
+    "fields": {
+      "name": "มาโนชญ์",
+      "last_name": "ตันตราจิณ",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2791,
+    "fields": {
+      "name": "พิมพ์สุตา",
+      "last_name": "ตันเผ่า",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2792,
+    "fields": {
+      "name": "ประจิน",
+      "last_name": "นุ่มกัน",
+      "sex": "FEMALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2793,
+    "fields": {
+      "name": "พลภูมิ",
+      "last_name": "นิระหานี",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2794,
+    "fields": {
+      "name": "อาฮามัด",
+      "last_name": "ฉายแสง",
+      "sex": "MALE",
+      "class_room": 70
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 71,
+    "fields": {
+      "class_level": "ป.3",
+      "room": "9",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 181,
+    "fields": {
+      "name": "สุธินันท์",
+      "last_name": "ธนรักษ์",
+      "sex": "FEMALE",
+      "class_room": [
+        71
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 182,
+    "fields": {
+      "name": "ประไพพักตร์",
+      "last_name": "นิษประปัญจ์",
+      "sex": "FEMALE",
+      "class_room": [
+        71
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 183,
+    "fields": {
+      "name": "ธีรลักษณ์",
+      "last_name": "ทวีเดช",
+      "sex": "MALE",
+      "class_room": [
+        71
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2795,
+    "fields": {
+      "name": "พลภูมิ",
+      "last_name": "ซาซุม",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2796,
+    "fields": {
+      "name": "อุลัยพร",
+      "last_name": "จันอ้น",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2797,
+    "fields": {
+      "name": "กนกเนตร",
+      "last_name": "นะวะมันดร",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2798,
+    "fields": {
+      "name": "สมนึก",
+      "last_name": "ไม้แดง",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2799,
+    "fields": {
+      "name": "พาสุข",
+      "last_name": "ทวนไชย์",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2800,
+    "fields": {
+      "name": "ปิยะนันท์",
+      "last_name": "ราชมณี",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2801,
+    "fields": {
+      "name": "ปริญญา",
+      "last_name": "ธรรมสถิตไพศาล",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2802,
+    "fields": {
+      "name": "ทองสิริ",
+      "last_name": "พรมอ่อน",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2803,
+    "fields": {
+      "name": "กฤตเมธ",
+      "last_name": "ตะละภัฏ",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2804,
+    "fields": {
+      "name": "ศศิธร",
+      "last_name": "ยางสวย",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2805,
+    "fields": {
+      "name": "รักชนก",
+      "last_name": "นักรบ",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2806,
+    "fields": {
+      "name": "สุทธิพจน์",
+      "last_name": "ถนัดเดินข่าว",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2807,
+    "fields": {
+      "name": "สุภัทริดา",
+      "last_name": "ถนัดภาษา",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2808,
+    "fields": {
+      "name": "เกษรา",
+      "last_name": "คำลือ",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2809,
+    "fields": {
+      "name": "นิติยา",
+      "last_name": "นิยมสำหรวจ",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2810,
+    "fields": {
+      "name": "ใจกลาง",
+      "last_name": "เลิศกิ่ง",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2811,
+    "fields": {
+      "name": "นวรรษนันท์",
+      "last_name": "แหยมศิริ",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2812,
+    "fields": {
+      "name": "จีราภรณ์",
+      "last_name": "พรมอ่อน",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2813,
+    "fields": {
+      "name": "เกริกพล",
+      "last_name": "นากกนก",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2814,
+    "fields": {
+      "name": "พิไลพร",
+      "last_name": "เณรานุสนธิ์",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2815,
+    "fields": {
+      "name": "ปิยบุตร",
+      "last_name": "ถมปัด",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2816,
+    "fields": {
+      "name": "หลี",
+      "last_name": "ทรงโกมล",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2817,
+    "fields": {
+      "name": "ณัฐศักดิ์",
+      "last_name": "ถนัดหัตถกรรม",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2818,
+    "fields": {
+      "name": "มะสูเกียน",
+      "last_name": "ถาวระวรณ์",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2819,
+    "fields": {
+      "name": "หฤทัย",
+      "last_name": "หอมพิกุล",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2820,
+    "fields": {
+      "name": "กนกเนตร",
+      "last_name": "ดาบเงิน",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2821,
+    "fields": {
+      "name": "จันทภา",
+      "last_name": "ธูปหอม",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2822,
+    "fields": {
+      "name": "พัชรีนิษฐ์",
+      "last_name": "ทศโยธิน",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2823,
+    "fields": {
+      "name": "ปฐม",
+      "last_name": "ทองสินธุ์",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2824,
+    "fields": {
+      "name": "เนตรฤดี",
+      "last_name": "ยาปะโลหิต",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2825,
+    "fields": {
+      "name": "ศุภาศิล",
+      "last_name": "ตั้งรบ",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2826,
+    "fields": {
+      "name": "ปิยะนันท์",
+      "last_name": "ตันยา",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2827,
+    "fields": {
+      "name": "ยูซุฟ",
+      "last_name": "แน่นดุจป้อม",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2828,
+    "fields": {
+      "name": "ฮามีย๊ะ",
+      "last_name": "เลิศกิ่ง",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2829,
+    "fields": {
+      "name": "ขอดิเยาะ",
+      "last_name": "ตั้งเผ่า",
+      "sex": "MALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2830,
+    "fields": {
+      "name": "ศรลักษณ์",
+      "last_name": "ธรรมนิยม",
+      "sex": "FEMALE",
+      "class_room": 71
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 72,
+    "fields": {
+      "class_level": "ป.2",
+      "room": "1",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 184,
+    "fields": {
+      "name": "นัฐพล",
+      "last_name": "ทวนไชย์",
+      "sex": "MALE",
+      "class_room": [
+        72
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 185,
+    "fields": {
+      "name": "ภาสวุฒิ",
+      "last_name": "บัวเผื่อน",
+      "sex": "MALE",
+      "class_room": [
+        72
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 186,
+    "fields": {
+      "name": "ไมล์",
+      "last_name": "นกทอง",
+      "sex": "FEMALE",
+      "class_room": [
+        72
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2831,
+    "fields": {
+      "name": "พิมพ์พิชญา",
+      "last_name": "ทวนทอง",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2832,
+    "fields": {
+      "name": "ฐิติกุล",
+      "last_name": "แหยมศิริ",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2833,
+    "fields": {
+      "name": "ทิพย์วารี",
+      "last_name": "ถุงเงิน",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2834,
+    "fields": {
+      "name": "ประสิทธิ์",
+      "last_name": "แจ้งสว่าง",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2835,
+    "fields": {
+      "name": "สัญชาน",
+      "last_name": "ธนประทีป",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2836,
+    "fields": {
+      "name": "ทวีวัฒน์",
+      "last_name": "พงศ์ฉบับนภา",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2837,
+    "fields": {
+      "name": "ทิพรดา",
+      "last_name": "ขอหมั่นกลาง",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2838,
+    "fields": {
+      "name": "กุลดิลก",
+      "last_name": "บุนยะศัพท์",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2839,
+    "fields": {
+      "name": "เฉลิมพล",
+      "last_name": "ทรัพย์ธำรงค์",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2840,
+    "fields": {
+      "name": "ณัฐธิตา",
+      "last_name": "ไชยภา",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2841,
+    "fields": {
+      "name": "เยาวรัตน์",
+      "last_name": "นพคเชนทร์",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2842,
+    "fields": {
+      "name": "เขมจิรา",
+      "last_name": "ธุวะนุติ์",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2843,
+    "fields": {
+      "name": "โอภาส",
+      "last_name": "นวลฉวี",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2844,
+    "fields": {
+      "name": "ประไพพักตร์",
+      "last_name": "นุตตาร",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2845,
+    "fields": {
+      "name": "วนาลี",
+      "last_name": "บินดี",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2846,
+    "fields": {
+      "name": "ดวงพร",
+      "last_name": "ฉัตรอภิเที่ยงค่ำ",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2847,
+    "fields": {
+      "name": "ภัคชนน",
+      "last_name": "บุญบำรุง",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2848,
+    "fields": {
+      "name": "อณัฐตา",
+      "last_name": "ไทไชโย",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2849,
+    "fields": {
+      "name": "นุจรี",
+      "last_name": "เดชคุ้ม",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2850,
+    "fields": {
+      "name": "รอซีด๊ะ",
+      "last_name": "อัตตนาถ",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2851,
+    "fields": {
+      "name": "ธเนษฐ",
+      "last_name": "ตัณสถิตย์",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2852,
+    "fields": {
+      "name": "เอกอธิพงษ์",
+      "last_name": "เธียรายัน",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2853,
+    "fields": {
+      "name": "สุภาลินี",
+      "last_name": "ตวงทอง",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2854,
+    "fields": {
+      "name": "เนติลักษณ์",
+      "last_name": "ทองเนื้อดี",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2855,
+    "fields": {
+      "name": "อเนชา",
+      "last_name": "ไม้แดง",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2856,
+    "fields": {
+      "name": "ภควัฒน์",
+      "last_name": "ขุนดำ",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2857,
+    "fields": {
+      "name": "ยุลิน",
+      "last_name": "ธรรมนิยม",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2858,
+    "fields": {
+      "name": "พัสวี",
+      "last_name": "นิยมธรรม",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2859,
+    "fields": {
+      "name": "อำไพ",
+      "last_name": "ทวนทอง",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2860,
+    "fields": {
+      "name": "รภัสพงษ์",
+      "last_name": "จันอ้น",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2861,
+    "fields": {
+      "name": "คมคาย",
+      "last_name": "บุญญาภิรมย์",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2862,
+    "fields": {
+      "name": "มนัส",
+      "last_name": "นุชแนวนุ่ม",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2863,
+    "fields": {
+      "name": "นันทวรรณ",
+      "last_name": "ขันธุลา",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2864,
+    "fields": {
+      "name": "ปรมินทร์",
+      "last_name": "บุญศล",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2865,
+    "fields": {
+      "name": "ธนภณ",
+      "last_name": "เพียยา",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2866,
+    "fields": {
+      "name": "ประยุทธ์",
+      "last_name": "เขียวอ่อน",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2867,
+    "fields": {
+      "name": "จิตรลดา",
+      "last_name": "อัตตนาถ",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2868,
+    "fields": {
+      "name": "จักรพันธ์",
+      "last_name": "นรวิทย์โชติกุล",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2869,
+    "fields": {
+      "name": "บุญเกิด",
+      "last_name": "ถนัดการเขียน",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2870,
+    "fields": {
+      "name": "ขวัญรุ้ง",
+      "last_name": "ถาวรรัตน",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2871,
+    "fields": {
+      "name": "ณัฐธภรณ์",
+      "last_name": "ฉายแสง",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2872,
+    "fields": {
+      "name": "เพียงกมล",
+      "last_name": "นกทอง",
+      "sex": "FEMALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2873,
+    "fields": {
+      "name": "อาซือมะ",
+      "last_name": "คณานุรักษ์",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2874,
+    "fields": {
+      "name": "สหัสมณี",
+      "last_name": "แก้วชลคราม",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2875,
+    "fields": {
+      "name": "วิเชียร",
+      "last_name": "ร่มธิติรัตน์",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2876,
+    "fields": {
+      "name": "โกมล",
+      "last_name": "ถิรสวัสดิ์",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2877,
+    "fields": {
+      "name": "จิรวิทย์",
+      "last_name": "นาฏคายี",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2878,
+    "fields": {
+      "name": "ภาสวุฒิ",
+      "last_name": "ไตรบรรพ",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2879,
+    "fields": {
+      "name": "บุญพา",
+      "last_name": "ถนิมมาศ",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2880,
+    "fields": {
+      "name": "ภัทราวุธ",
+      "last_name": "ไสยกิจ",
+      "sex": "MALE",
+      "class_room": 72
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 73,
+    "fields": {
+      "class_level": "ม.4",
+      "room": "6",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 187,
+    "fields": {
+      "name": "เอกชัย",
+      "last_name": "นาคะนคร",
+      "sex": "MALE",
+      "class_room": [
+        73
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 188,
+    "fields": {
+      "name": "เกษตร",
+      "last_name": "ธุวะนุติ์",
+      "sex": "FEMALE",
+      "class_room": [
+        73
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2881,
+    "fields": {
+      "name": "ทองรัตน์",
+      "last_name": "เนื่องนนท์",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2882,
+    "fields": {
+      "name": "ประไพพักตร์",
+      "last_name": "ธนประทีป",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2883,
+    "fields": {
+      "name": "ธีราทัต",
+      "last_name": "ถนัดเดินข่าว",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2884,
+    "fields": {
+      "name": "อลิษา",
+      "last_name": "ถาวรายุศม์",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2885,
+    "fields": {
+      "name": "นาวีตา",
+      "last_name": "ถาวระวรณ์",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2886,
+    "fields": {
+      "name": "ปิยะนันท์",
+      "last_name": "ขำเอนก",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2887,
+    "fields": {
+      "name": "จณิสตา",
+      "last_name": "นานายน",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2888,
+    "fields": {
+      "name": "รัฐพงษ์",
+      "last_name": "ติณรัตน์",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2889,
+    "fields": {
+      "name": "กิติยาธรณ์",
+      "last_name": "ไทนิยม",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2890,
+    "fields": {
+      "name": "อธิตยา",
+      "last_name": "หอมสิน",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2891,
+    "fields": {
+      "name": "ภานุพล",
+      "last_name": "ดุริยพันธุ์",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2892,
+    "fields": {
+      "name": "พิมพ์สุตา",
+      "last_name": "ดิสกะประกาย",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2893,
+    "fields": {
+      "name": "ราณี",
+      "last_name": "เมืองสุข",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2894,
+    "fields": {
+      "name": "ปุณณรัตน์",
+      "last_name": "ถนัดหัตถกรรม",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2895,
+    "fields": {
+      "name": "จีราภรณ์",
+      "last_name": "นับเนื่องนอ",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2896,
+    "fields": {
+      "name": "ภูวฤณ",
+      "last_name": "ดิศดใน",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2897,
+    "fields": {
+      "name": "สุรนัย",
+      "last_name": "บุญบำรุง",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2898,
+    "fields": {
+      "name": "เอกชัย",
+      "last_name": "คำลือ",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2899,
+    "fields": {
+      "name": "รักชนก",
+      "last_name": "นะวะมันดร",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2900,
+    "fields": {
+      "name": "อดิสรณ์",
+      "last_name": "นามขำ",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2901,
+    "fields": {
+      "name": "อเนชา",
+      "last_name": "ขันธุลา",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2902,
+    "fields": {
+      "name": "วีร์สุดา",
+      "last_name": "บัวเผื่อน",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2903,
+    "fields": {
+      "name": "นวรรษนันท์",
+      "last_name": "นิยมธรรม",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2904,
+    "fields": {
+      "name": "นัสรุน",
+      "last_name": "นามขำ",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2905,
+    "fields": {
+      "name": "ภัคชนน",
+      "last_name": "จันอ้น",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2906,
+    "fields": {
+      "name": "วรินทธิ์ธร",
+      "last_name": "ดิสกะประกาย",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2907,
+    "fields": {
+      "name": "นันทิกานต์",
+      "last_name": "ทองประดิฐ",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2908,
+    "fields": {
+      "name": "ยุศรอน",
+      "last_name": "ร่มธิติรัตน์",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2909,
+    "fields": {
+      "name": "เจตพินิษฐ์",
+      "last_name": "ทองแท้",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2910,
+    "fields": {
+      "name": "จิตตานันท์",
+      "last_name": "ศรทอง",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2911,
+    "fields": {
+      "name": "ปิยวัจน์",
+      "last_name": "ดุริยพันธุ์",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2912,
+    "fields": {
+      "name": "กุลปรียา",
+      "last_name": "ถนัดรักษา",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2913,
+    "fields": {
+      "name": "เทพณรงค์",
+      "last_name": "ตันเผ่า",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2914,
+    "fields": {
+      "name": "วาสุเทพ",
+      "last_name": "นามเสวตร",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2915,
+    "fields": {
+      "name": "วิชชากร",
+      "last_name": "ทวีเดช",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2916,
+    "fields": {
+      "name": "ฐิติณัฐฐา",
+      "last_name": "ทำประดู่",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2917,
+    "fields": {
+      "name": "ปิยวดี",
+      "last_name": "นาควงษ์",
+      "sex": "MALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2918,
+    "fields": {
+      "name": "สิทธัญ",
+      "last_name": "ขุนดำ",
+      "sex": "FEMALE",
+      "class_room": 73
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 74,
+    "fields": {
+      "class_level": "ป.5",
+      "room": "3",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 189,
+    "fields": {
+      "name": "ศรลักษณ์",
+      "last_name": "ทหารแท้",
+      "sex": "FEMALE",
+      "class_room": [
+        74
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 190,
+    "fields": {
+      "name": "เขียว",
+      "last_name": "เจริญรัมย์",
+      "sex": "FEMALE",
+      "class_room": [
+        74
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2919,
+    "fields": {
+      "name": "นิรุตต์",
+      "last_name": "บินดี",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2920,
+    "fields": {
+      "name": "พรชนก",
+      "last_name": "บุญส่ง",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2921,
+    "fields": {
+      "name": "กันตวรรณ",
+      "last_name": "หนักแน่น",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2922,
+    "fields": {
+      "name": "ธารา",
+      "last_name": "ทองปากน้ำ",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2923,
+    "fields": {
+      "name": "สุธาวี",
+      "last_name": "ดิสกะประกาย",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2924,
+    "fields": {
+      "name": "สรายุทธ",
+      "last_name": "ดาตู",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2925,
+    "fields": {
+      "name": "ทานตะวัน",
+      "last_name": "ถนัดเดินข่าว",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2926,
+    "fields": {
+      "name": "ภาสวุฒิ",
+      "last_name": "เตมิยะเดช",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2927,
+    "fields": {
+      "name": "เกียรติก้อง",
+      "last_name": "ทัศนสุทธิ",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2928,
+    "fields": {
+      "name": "ฮามีย๊ะ",
+      "last_name": "ทวนไชย์",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2929,
+    "fields": {
+      "name": "ปรมินทร์",
+      "last_name": "ศรีวงค์",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2930,
+    "fields": {
+      "name": "กะดิรัตน์",
+      "last_name": "ธนประทีป",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2931,
+    "fields": {
+      "name": "รังสินี",
+      "last_name": "มิ่งขวัญ",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2932,
+    "fields": {
+      "name": "ธวัศชา",
+      "last_name": "ฉัตรอภิเที่ยงค่ำ",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2933,
+    "fields": {
+      "name": "อชิตะวีร์",
+      "last_name": "นามขำ",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2934,
+    "fields": {
+      "name": "ธราวิทญ์",
+      "last_name": "นักรบ",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2935,
+    "fields": {
+      "name": "ฤทธิ์ชกร",
+      "last_name": "สังข์กรด",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2936,
+    "fields": {
+      "name": "นันทวุฒิ",
+      "last_name": "ยาปะโลหิต",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2937,
+    "fields": {
+      "name": "ภารวี",
+      "last_name": "ดาวกระจาย",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2938,
+    "fields": {
+      "name": "วิพุธ",
+      "last_name": "นะวะมันดร",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2939,
+    "fields": {
+      "name": "ปัณณวัชร",
+      "last_name": "ดุริยพันธุ์",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2940,
+    "fields": {
+      "name": "พีระพงศ์พันธ์",
+      "last_name": "สงประเสริฐ",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2941,
+    "fields": {
+      "name": "น้ำเพชร",
+      "last_name": "วุฑฒยากร",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2942,
+    "fields": {
+      "name": "เฉลิมพล",
+      "last_name": "เดชวา",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2943,
+    "fields": {
+      "name": "นิติยา",
+      "last_name": "นากกนก",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2944,
+    "fields": {
+      "name": "โกวิทย์",
+      "last_name": "ทวนทอง",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2945,
+    "fields": {
+      "name": "ประเดิม",
+      "last_name": "จันทา",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2946,
+    "fields": {
+      "name": "นภนต์",
+      "last_name": "นาถะเดชะ",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2947,
+    "fields": {
+      "name": "ยศพนต์",
+      "last_name": "ศิวะวรเวท",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2948,
+    "fields": {
+      "name": "เทพณรงค์",
+      "last_name": "ตระกูลไม้เรียง",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2949,
+    "fields": {
+      "name": "รชตกร",
+      "last_name": "ทองแท้",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2950,
+    "fields": {
+      "name": "แปลง",
+      "last_name": "ธัญเสถียร",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2951,
+    "fields": {
+      "name": "กิติวัฒน์",
+      "last_name": "ฉายแสง",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2952,
+    "fields": {
+      "name": "กุลดิลก",
+      "last_name": "พรรษาสกุล",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2953,
+    "fields": {
+      "name": "สายสุรีย์",
+      "last_name": "ดิสกะประกาย",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2954,
+    "fields": {
+      "name": "ปฐม",
+      "last_name": "นับเนื่องนอ",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2955,
+    "fields": {
+      "name": "นรีกานต์",
+      "last_name": "ดำริห์ชอบ",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2956,
+    "fields": {
+      "name": "โยธิการ์",
+      "last_name": "บุญศล",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2957,
+    "fields": {
+      "name": "มนรัตน์",
+      "last_name": "ศรีตะวัน",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2958,
+    "fields": {
+      "name": "ประเดิม",
+      "last_name": "ตั้งรบ",
+      "sex": "MALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2959,
+    "fields": {
+      "name": "ณัฐจศักดิ์",
+      "last_name": "ถ้วนศรี",
+      "sex": "FEMALE",
+      "class_room": 74
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 75,
+    "fields": {
+      "class_level": "ป.2",
+      "room": "2",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 191,
+    "fields": {
+      "name": "สุรธัช",
+      "last_name": "ศรีธนะเวทย์",
+      "sex": "FEMALE",
+      "class_room": [
+        75
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 192,
+    "fields": {
+      "name": "วสิตา",
+      "last_name": "ถมปัด",
+      "sex": "MALE",
+      "class_room": [
+        75
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2960,
+    "fields": {
+      "name": "วิชชากร",
+      "last_name": "ชุมวระ",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2961,
+    "fields": {
+      "name": "สันติราษฎร์",
+      "last_name": "ถนัดรบ",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2962,
+    "fields": {
+      "name": "มลิวรรณ",
+      "last_name": "ดัตพันธุ์",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2963,
+    "fields": {
+      "name": "วรรณนิสา",
+      "last_name": "นิยมเซียม",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2964,
+    "fields": {
+      "name": "พีระพงศ์พันธ์",
+      "last_name": "ดิศดใน",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2965,
+    "fields": {
+      "name": "สุกฤษตา",
+      "last_name": "เนื้อนุ่ม",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2966,
+    "fields": {
+      "name": "วุฒิ",
+      "last_name": "ดวงทับทิม",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2967,
+    "fields": {
+      "name": "มณียา",
+      "last_name": "ถะเกิงชศ",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2968,
+    "fields": {
+      "name": "พรชนก",
+      "last_name": "ไชยภา",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2969,
+    "fields": {
+      "name": "สุไฮลัน",
+      "last_name": "ซูสารอ",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2970,
+    "fields": {
+      "name": "รมิตา",
+      "last_name": "ดาวกระจาย",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2971,
+    "fields": {
+      "name": "ธมลพรรณ",
+      "last_name": "ตรีเภรินทร์",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2972,
+    "fields": {
+      "name": "ธีราทัต",
+      "last_name": "โพธิสัตย์",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2973,
+    "fields": {
+      "name": "ตรีนุช",
+      "last_name": "ทวีเดช",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2974,
+    "fields": {
+      "name": "จด",
+      "last_name": "นครเทพ",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2975,
+    "fields": {
+      "name": "อรุณี",
+      "last_name": "เตมิยะเดช",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2976,
+    "fields": {
+      "name": "พรเบญญา",
+      "last_name": "นิติสาขา",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2977,
+    "fields": {
+      "name": "ซูฮัยดา",
+      "last_name": "ดิสกะประกาย",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2978,
+    "fields": {
+      "name": "ยศวัฒน์",
+      "last_name": "ธรรมสถิตไพศาล",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2979,
+    "fields": {
+      "name": "ดวงจันทร์",
+      "last_name": "ทีฆะ",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2980,
+    "fields": {
+      "name": "วรนาฎ",
+      "last_name": "หิรัญสาลี",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2981,
+    "fields": {
+      "name": "จันทนา",
+      "last_name": "นิยมเซียม",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2982,
+    "fields": {
+      "name": "อาซือมะ",
+      "last_name": "ทองสินธุ์",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2983,
+    "fields": {
+      "name": "เอนกพงศ์",
+      "last_name": "ติณรัตน์",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2984,
+    "fields": {
+      "name": "กุลปรียา",
+      "last_name": "ไสยกิจ",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2985,
+    "fields": {
+      "name": "ประสิทธิ์",
+      "last_name": "ทองแท้",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2986,
+    "fields": {
+      "name": "ราชพฤกษ์",
+      "last_name": "ดิศดใน",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2987,
+    "fields": {
+      "name": "ดิลก",
+      "last_name": "นักสำหรวจ",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2988,
+    "fields": {
+      "name": "ณัฐติญา",
+      "last_name": "ทศโยธิน",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2989,
+    "fields": {
+      "name": "มนัส",
+      "last_name": "หนุนสุข",
+      "sex": "FEMALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2990,
+    "fields": {
+      "name": "พิมพ์สุตา",
+      "last_name": "ทวนไชย์",
+      "sex": "MALE",
+      "class_room": 75
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 76,
+    "fields": {
+      "class_level": "ม.3",
+      "room": "2",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 193,
+    "fields": {
+      "name": "อชิตะวีร์",
+      "last_name": "เลิศกิ่ง",
+      "sex": "MALE",
+      "class_room": [
+        76
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 194,
+    "fields": {
+      "name": "ศภัคชคง",
+      "last_name": "ธนรักษ์",
+      "sex": "MALE",
+      "class_room": [
+        76
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 195,
+    "fields": {
+      "name": "อนุวัช",
+      "last_name": "คำลือ",
+      "sex": "FEMALE",
+      "class_room": [
+        76
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2991,
+    "fields": {
+      "name": "อนุวัช",
+      "last_name": "ตันเผ่า",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2992,
+    "fields": {
+      "name": "ธัญญกัญญา",
+      "last_name": "แก้วชลคราม",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2993,
+    "fields": {
+      "name": "สุมัชญา",
+      "last_name": "ซาซุม",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2994,
+    "fields": {
+      "name": "วันชนก",
+      "last_name": "ธนรักษ์",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2995,
+    "fields": {
+      "name": "พิมพ์สุตา",
+      "last_name": "ดาวอร่าม",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2996,
+    "fields": {
+      "name": "ลัดดา",
+      "last_name": "ขอหมั่นกลาง",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2997,
+    "fields": {
+      "name": "ชนิศา",
+      "last_name": "เพียยา",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2998,
+    "fields": {
+      "name": "วาสุเทพ",
+      "last_name": "ถาวระวรณ์",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 2999,
+    "fields": {
+      "name": "อารีย์",
+      "last_name": "ทวีเดช",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3000,
+    "fields": {
+      "name": "คำ",
+      "last_name": "ดิสกะประกาย",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3001,
+    "fields": {
+      "name": "ฐิติกุล",
+      "last_name": "สุวรรณหงษ์",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3002,
+    "fields": {
+      "name": "สุรนัย",
+      "last_name": "ทองสุกเลิศ",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3003,
+    "fields": {
+      "name": "เทอดศักดิ์",
+      "last_name": "ไทไชโย",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3004,
+    "fields": {
+      "name": "พีระพงศ์พันธ์",
+      "last_name": "เขียวขุ้ย",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3005,
+    "fields": {
+      "name": "ศจีกาญจน์",
+      "last_name": "ไสยกิจ",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3006,
+    "fields": {
+      "name": "ธเนษฐ",
+      "last_name": "พรรษาสกุล",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3007,
+    "fields": {
+      "name": "กระสุน",
+      "last_name": "นครเทพ",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3008,
+    "fields": {
+      "name": "จิตรลดา",
+      "last_name": "ทวีเดช",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3009,
+    "fields": {
+      "name": "อรจิรา",
+      "last_name": "แน่นดุจป้อม",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3010,
+    "fields": {
+      "name": "สุภาลินี",
+      "last_name": "นวลเพ็ง",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3011,
+    "fields": {
+      "name": "ใกล้รุ่ง",
+      "last_name": "หิรัญสาลี",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3012,
+    "fields": {
+      "name": "เรืองเกียรติ",
+      "last_name": "ยาปะโลหิต",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3013,
+    "fields": {
+      "name": "วรนาฎ",
+      "last_name": "ศรีธนะเวทย์",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3014,
+    "fields": {
+      "name": "จินต์จุฑา",
+      "last_name": "ธัญเสถียร",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3015,
+    "fields": {
+      "name": "เยาวรัตน์",
+      "last_name": "นิยมธรรม",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3016,
+    "fields": {
+      "name": "ปภาวรินทร์",
+      "last_name": "แจ้งสว่าง",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3017,
+    "fields": {
+      "name": "ปิยวดี",
+      "last_name": "ยะผา",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3018,
+    "fields": {
+      "name": "วรปรัชญ์",
+      "last_name": "แต้กุล",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3019,
+    "fields": {
+      "name": "กะดิรัตน์",
+      "last_name": "ถนัดการเขียน",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3020,
+    "fields": {
+      "name": "กิติกานต์",
+      "last_name": "ตัณสถิตย์",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3021,
+    "fields": {
+      "name": "นิวิลดาน",
+      "last_name": "ถาวระวรณ์",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3022,
+    "fields": {
+      "name": "นภนต์",
+      "last_name": "ถนอมพล",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3023,
+    "fields": {
+      "name": "ศรีสวัสดิ์",
+      "last_name": "ดาบเพ็ชร์",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3024,
+    "fields": {
+      "name": "พันเกล้า",
+      "last_name": "เธียรายัน",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3025,
+    "fields": {
+      "name": "มาสิตะ",
+      "last_name": "นานายน",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3026,
+    "fields": {
+      "name": "ดารุนี",
+      "last_name": "แก้วอยู่",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3027,
+    "fields": {
+      "name": "นิติ",
+      "last_name": "ตันเผ่า",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3028,
+    "fields": {
+      "name": "ศภัคชคง",
+      "last_name": "หอมพิกุล",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3029,
+    "fields": {
+      "name": "ปฐม",
+      "last_name": "นพตระกูล",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3030,
+    "fields": {
+      "name": "ใจกลาง",
+      "last_name": "ทองเนื้อดี",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3031,
+    "fields": {
+      "name": "ธัชญา",
+      "last_name": "ฉัพพรรณธนกูร",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3032,
+    "fields": {
+      "name": "สุทธิณัฐ",
+      "last_name": "ถนัดหัตถกรรม",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3033,
+    "fields": {
+      "name": "ธีรวุฒิ",
+      "last_name": "แหยมศิริ",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3034,
+    "fields": {
+      "name": "พลภูมิ",
+      "last_name": "อัตตนาถ",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3035,
+    "fields": {
+      "name": "ศศินา",
+      "last_name": "เวียงจันทึก",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3036,
+    "fields": {
+      "name": "หลี",
+      "last_name": "ตันตราจิณ",
+      "sex": "MALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3037,
+    "fields": {
+      "name": "จักรกฤนาย",
+      "last_name": "ถนัดการยนต์",
+      "sex": "FEMALE",
+      "class_room": 76
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 77,
+    "fields": {
+      "class_level": "ม.4",
+      "room": "10",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 196,
+    "fields": {
+      "name": "จิรวิทย์",
+      "last_name": "มนทอง",
+      "sex": "MALE",
+      "class_room": [
+        77
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 197,
+    "fields": {
+      "name": "วณัฐดา",
+      "last_name": "เตมิยะเดช",
+      "sex": "FEMALE",
+      "class_room": [
+        77
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3038,
+    "fields": {
+      "name": "ธีรวุฒิ",
+      "last_name": "ตันยา",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3039,
+    "fields": {
+      "name": "วิรศักดิ์",
+      "last_name": "นิยมธรรม",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3040,
+    "fields": {
+      "name": "เกษมชัย",
+      "last_name": "ธรรมสถิตไพศาล",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3041,
+    "fields": {
+      "name": "พาดีล๊ะ",
+      "last_name": "เลิศกิ่ง",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3042,
+    "fields": {
+      "name": "เกษตร",
+      "last_name": "ถนัดหัตถกรรม",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3043,
+    "fields": {
+      "name": "กิ่งแก้ว",
+      "last_name": "วุฑฒยากร",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3044,
+    "fields": {
+      "name": "ณัฐญาดา",
+      "last_name": "ทรัพย์ธำรงค์",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3045,
+    "fields": {
+      "name": "พัสวี",
+      "last_name": "นาคพันธุ์",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3046,
+    "fields": {
+      "name": "ประเดิม",
+      "last_name": "นิยมเซียม",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3047,
+    "fields": {
+      "name": "ราชพฤกษ์",
+      "last_name": "ธุวะนุติ์",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3048,
+    "fields": {
+      "name": "หรรษธร",
+      "last_name": "เยาวธนโชค",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3049,
+    "fields": {
+      "name": "ดวงสมร",
+      "last_name": "จันอ้น",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3050,
+    "fields": {
+      "name": "อรจิรา",
+      "last_name": "มิ่งขวัญ",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3051,
+    "fields": {
+      "name": "ลัดดา",
+      "last_name": "นาคะนคร",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3052,
+    "fields": {
+      "name": "อำไพ",
+      "last_name": "บุนยะตีรณะ",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3053,
+    "fields": {
+      "name": "ธมน",
+      "last_name": "นพตระกูล",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3054,
+    "fields": {
+      "name": "รอกีเย๊าะ",
+      "last_name": "ตระกูลไม้เรียง",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3055,
+    "fields": {
+      "name": "ขวัญรุ้ง",
+      "last_name": "ธรรมสถิตไพศาล",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3056,
+    "fields": {
+      "name": "ประไพพักตร์",
+      "last_name": "ทองสุกเลิศ",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3057,
+    "fields": {
+      "name": "บุญเทียน",
+      "last_name": "ถะเกิงชศ",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3058,
+    "fields": {
+      "name": "วีระโชติ",
+      "last_name": "เดชคุ้ม",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3059,
+    "fields": {
+      "name": "รชตกร",
+      "last_name": "สันตะวงศ์",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3060,
+    "fields": {
+      "name": "ยูซุฟ",
+      "last_name": "บุณยะภาชน์",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3061,
+    "fields": {
+      "name": "ธนวันต์",
+      "last_name": "ยาปะโลหิต",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3062,
+    "fields": {
+      "name": "สุรนีย์",
+      "last_name": "นำธวัช",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3063,
+    "fields": {
+      "name": "บุญนพ",
+      "last_name": "นวลเพ็ง",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3064,
+    "fields": {
+      "name": "ธีราทัต",
+      "last_name": "ตั้งเผ่า",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3065,
+    "fields": {
+      "name": "มณียา",
+      "last_name": "ถนอมพลกรัง",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3066,
+    "fields": {
+      "name": "ปภาวรินทร์",
+      "last_name": "แก้วอยู่",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3067,
+    "fields": {
+      "name": "เบญญาทิพย์",
+      "last_name": "ทรัพย์ธำรงค์",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3068,
+    "fields": {
+      "name": "นิรุตต์",
+      "last_name": "ทองลาภ",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3069,
+    "fields": {
+      "name": "อรรจน์",
+      "last_name": "ตัณฑนุช",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3070,
+    "fields": {
+      "name": "จด",
+      "last_name": "ทองสุกเลิศ",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3071,
+    "fields": {
+      "name": "อารีย์",
+      "last_name": "ขันธุลา",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3072,
+    "fields": {
+      "name": "สุมัชญา",
+      "last_name": "เจริญรัมย์",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3073,
+    "fields": {
+      "name": "ศจีกาญจน์",
+      "last_name": "บุญญาภิรมย์",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3074,
+    "fields": {
+      "name": "ประภัทร์สรณ์",
+      "last_name": "ทีฆะ",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3075,
+    "fields": {
+      "name": "โอภาส",
+      "last_name": "นาคะนคร",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3076,
+    "fields": {
+      "name": "วาสุเทพ",
+      "last_name": "ตระกูลบุญ",
+      "sex": "FEMALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3077,
+    "fields": {
+      "name": "อณัฐตา",
+      "last_name": "พีระเพ็ญกุล",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3078,
+    "fields": {
+      "name": "วณัฐดา",
+      "last_name": "ศรทอง",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3079,
+    "fields": {
+      "name": "เกริกพล",
+      "last_name": "บุตราช",
+      "sex": "MALE",
+      "class_room": 77
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 78,
+    "fields": {
+      "class_level": "ม.1",
+      "room": "5",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 198,
+    "fields": {
+      "name": "สมใจ",
+      "last_name": "เวียงจันทึก",
+      "sex": "FEMALE",
+      "class_room": [
+        78
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 199,
+    "fields": {
+      "name": "มาซีเตาะ",
+      "last_name": "เพียยา",
+      "sex": "MALE",
+      "class_room": [
+        78
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3080,
+    "fields": {
+      "name": "อดิสรณ์",
+      "last_name": "งามพิเชษฐ์",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3081,
+    "fields": {
+      "name": "มลิวรรณ",
+      "last_name": "บุญบำรุง",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3082,
+    "fields": {
+      "name": "จิฬาภรณ์",
+      "last_name": "ติณรัตน์",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3083,
+    "fields": {
+      "name": "ลักษมี",
+      "last_name": "ทองปากน้ำ",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3084,
+    "fields": {
+      "name": "ณัฐวรินทร",
+      "last_name": "ตั้งเผ่า",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3085,
+    "fields": {
+      "name": "ศศิรินทร์",
+      "last_name": "ด้วงโสน",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3086,
+    "fields": {
+      "name": "จริยฉัตร",
+      "last_name": "อุ่นอก",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3087,
+    "fields": {
+      "name": "มณียา",
+      "last_name": "ศรทอง",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3088,
+    "fields": {
+      "name": "เถลิงยศ",
+      "last_name": "บัวเผื่อน",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3089,
+    "fields": {
+      "name": "ปิ่นบุญญา",
+      "last_name": "ธรรมสถิตไพศาล",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3090,
+    "fields": {
+      "name": "ปริญญา",
+      "last_name": "นิลวิมล",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3091,
+    "fields": {
+      "name": "กรพนธ์",
+      "last_name": "ถนอมมนุษย์",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3092,
+    "fields": {
+      "name": "เถลิงยศ",
+      "last_name": "ถนัดการยนต์",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3093,
+    "fields": {
+      "name": "ฌาฆีภัตฐ์",
+      "last_name": "นรวิทย์โชติกุล",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3094,
+    "fields": {
+      "name": "นุจรี",
+      "last_name": "ธาราธร",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3095,
+    "fields": {
+      "name": "อรพิณ",
+      "last_name": "นิลวิมล",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3096,
+    "fields": {
+      "name": "บุญเกิด",
+      "last_name": "นักรบ",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3097,
+    "fields": {
+      "name": "ราชันทร์",
+      "last_name": "ซาซุม",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3098,
+    "fields": {
+      "name": "เฉลิมรัฐ",
+      "last_name": "นิยมธรรม",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3099,
+    "fields": {
+      "name": "อุลัยพร",
+      "last_name": "ศรีสัตย์",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3100,
+    "fields": {
+      "name": "อรรจน์",
+      "last_name": "ธรรมสถิตไพศาล",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3101,
+    "fields": {
+      "name": "วัลยา",
+      "last_name": "ทองประดิฐ",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3102,
+    "fields": {
+      "name": "พัสวี",
+      "last_name": "ถนอมมนุษย์",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3103,
+    "fields": {
+      "name": "ฐิติยาพร",
+      "last_name": "ถาวระวรณ์",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3104,
+    "fields": {
+      "name": "วีระโชติ",
+      "last_name": "ร่มธิติรัตน์",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3105,
+    "fields": {
+      "name": "มนัส",
+      "last_name": "โพธิสัตย์",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3106,
+    "fields": {
+      "name": "รูไกยะฮ์",
+      "last_name": "บุนยาภิสนท์",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3107,
+    "fields": {
+      "name": "ตรีนุช",
+      "last_name": "ธรรมเมธา",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3108,
+    "fields": {
+      "name": "มะลีวัลย์",
+      "last_name": "นิระหานี",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3109,
+    "fields": {
+      "name": "เขียว",
+      "last_name": "จันอ้น",
+      "sex": "FEMALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3110,
+    "fields": {
+      "name": "กองสิน",
+      "last_name": "ซูสารอ",
+      "sex": "MALE",
+      "class_room": 78
+    }
+  },
+  {
+    "model": "apis.classrooms",
+    "pk": 79,
+    "fields": {
+      "class_level": "ม.3",
+      "room": "5",
+      "school": 6
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 200,
+    "fields": {
+      "name": "พีระพงศ์พันธ์",
+      "last_name": "ทองปากน้ำ",
+      "sex": "FEMALE",
+      "class_room": [
+        79
+      ]
+    }
+  },
+  {
+    "model": "apis.teachers",
+    "pk": 201,
+    "fields": {
+      "name": "โยธิการ์",
+      "last_name": "ปานสุวรรณ",
+      "sex": "FEMALE",
+      "class_room": [
+        79
+      ]
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3111,
+    "fields": {
+      "name": "พลภูมิ",
+      "last_name": "นิระหานี",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3112,
+    "fields": {
+      "name": "ชัชนันท์",
+      "last_name": "ศาสตร์ศิลป์",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3113,
+    "fields": {
+      "name": "สมมล",
+      "last_name": "ทองสุกเลิศ",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3114,
+    "fields": {
+      "name": "พิมพ์สุตา",
+      "last_name": "ดิศดใน",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3115,
+    "fields": {
+      "name": "อนุวัช",
+      "last_name": "บุญบำรุง",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3116,
+    "fields": {
+      "name": "ฌาฆีภัตฐ์",
+      "last_name": "นามเสวตร",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3117,
+    "fields": {
+      "name": "จิม",
+      "last_name": "วิลาสินี",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3118,
+    "fields": {
+      "name": "ประสิทธิ์",
+      "last_name": "งามพิเชษฐ์",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3119,
+    "fields": {
+      "name": "จำรัส",
+      "last_name": "แหยมศิริ",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3120,
+    "fields": {
+      "name": "ใกล้รุ่ง",
+      "last_name": "ผลบุญ",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3121,
+    "fields": {
+      "name": "ราชัน",
+      "last_name": "หอมพิกุล",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3122,
+    "fields": {
+      "name": "เจษฎากร",
+      "last_name": "แจ้งสว่าง",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3123,
+    "fields": {
+      "name": "เกริกพล",
+      "last_name": "เตชะกำพุ",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3124,
+    "fields": {
+      "name": "ภัคชนน",
+      "last_name": "ถาวรายุศม์",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3125,
+    "fields": {
+      "name": "สุรธัช",
+      "last_name": "ถนัดอักษร",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3126,
+    "fields": {
+      "name": "กุลดิลก",
+      "last_name": "ดีตพันธุ์",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3127,
+    "fields": {
+      "name": "ศศิยา",
+      "last_name": "ทองสีไพล",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3128,
+    "fields": {
+      "name": "นิติ",
+      "last_name": "ทองสุกเลิศ",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3129,
+    "fields": {
+      "name": "เนติลักษณ์",
+      "last_name": "จันอ้น",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3130,
+    "fields": {
+      "name": "สมมล",
+      "last_name": "ทองประดิฐ",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3131,
+    "fields": {
+      "name": "อารีย์",
+      "last_name": "นานายน",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3132,
+    "fields": {
+      "name": "ฐิติกุล",
+      "last_name": "ไม้แดง",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3133,
+    "fields": {
+      "name": "ธัญญกัญญา",
+      "last_name": "ทรัพย์ธำรงค์",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3134,
+    "fields": {
+      "name": "วันฉัตร",
+      "last_name": "หอมพิกุล",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3135,
+    "fields": {
+      "name": "พิชญ์สินี",
+      "last_name": "ดัตพันธุ์",
+      "sex": "MALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3136,
+    "fields": {
+      "name": "รัฐพงษ์",
+      "last_name": "ทองสุกเลิศ",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3137,
+    "fields": {
+      "name": "มัตติกา",
+      "last_name": "เตชะกำพุ",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3138,
+    "fields": {
+      "name": "วรรณาต",
+      "last_name": "ทองแท้",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3139,
+    "fields": {
+      "name": "ปริญญา",
+      "last_name": "สาระพันธ์",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  },
+  {
+    "model": "apis.students",
+    "pk": 3140,
+    "fields": {
+      "name": "อนุบาล",
+      "last_name": "นิลสลัว",
+      "sex": "FEMALE",
+      "class_room": 79
+    }
+  }
+]
