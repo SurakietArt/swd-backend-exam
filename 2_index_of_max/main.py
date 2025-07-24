@@ -19,5 +19,14 @@ output = list can not blank
 
 class Solution:
 
-    def find_max_index(self, numbers: list) -> int | str:
-        pass
+    def find_max_index(self, numbers: list[int]) -> int | str:
+        if len(numbers) == 0:
+            return "list can not blank"
+
+        maxPos = 0
+        maxNum = numbers[0]
+        for idx, n in enumerate(numbers):
+            if n > maxNum:
+                maxNum = n
+                maxPos = idx
+        return maxPos
