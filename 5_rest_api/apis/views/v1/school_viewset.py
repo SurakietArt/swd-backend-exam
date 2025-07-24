@@ -1,9 +1,11 @@
 from django.db.models import Count
+from django_filters import rest_framework as filters
 from drf_spectacular.utils import extend_schema
 from rest_framework import viewsets, status
 from rest_framework.request import Request
 from rest_framework.response import Response
 
+from apis.filters.school_filters import SchoolFilter
 from apis.models.schools_model import Schools
 from apis.serializers.base_serializer import SchoolSerializer
 from apis.serializers.detail_serializer import SchoolDetailSerializer
@@ -13,6 +15,8 @@ from apis.serializers.detail_serializer import SchoolDetailSerializer
 class SchoolViewSet(viewsets.ModelViewSet):
     serializer_class = SchoolSerializer
     queryset = Schools.objects.all()
+    filter_backends = (filters.DjangoFilterBackend,)
+    filterset_class = SchoolFilter
 
     def retrieve(self, request: Request, *args, **kwargs):
         queryset = Schools.objects.annotate(

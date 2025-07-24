@@ -1,17 +1,21 @@
+from django_filters import rest_framework as filters
 from drf_spectacular.utils import extend_schema
 from rest_framework import viewsets, status
 from rest_framework.request import Request
 from rest_framework.response import Response
 
+from apis.filters.student_filter import StudentFilter
 from apis.models.students_model import Students
-from apis.serializers.base_serializer import TeacherSerializer
+from apis.serializers.base_serializer import StudentSerializer
 from apis.serializers.detail_serializer import StudentDetailSerializer
 
 
 @extend_schema(tags=["Students"])
 class StudentViewSet(viewsets.ModelViewSet):
-    serializer_class = TeacherSerializer
+    serializer_class = StudentSerializer
     queryset = Students.objects.all()
+    filter_backends = (filters.DjangoFilterBackend,)
+    filterset_class = StudentFilter
 
     def retrieve(self, request: Request, *args, **kwargs):
         pk = kwargs['pk']

@@ -1,8 +1,10 @@
+from django_filters import rest_framework as filters
 from drf_spectacular.utils import extend_schema
 from rest_framework import viewsets, status
 from rest_framework.request import Request
 from rest_framework.response import Response
 
+from apis.filters.class_room_filter import ClassRoomFilter
 from apis.models.classrooms_model import ClassRooms
 from apis.serializers.base_serializer import ClassRoomSerializer
 from apis.serializers.detail_serializer import ClassRoomDetailSerializer
@@ -12,6 +14,8 @@ from apis.serializers.detail_serializer import ClassRoomDetailSerializer
 class ClassRoomsViewSet(viewsets.ModelViewSet):
     serializer_class = ClassRoomSerializer
     queryset = ClassRooms.objects.all()
+    filter_backends = (filters.DjangoFilterBackend,)
+    filterset_class = ClassRoomFilter
 
     def retrieve(self, request: Request, *args, **kwargs):
         pk = kwargs['pk']
