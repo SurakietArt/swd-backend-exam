@@ -20,4 +20,18 @@ output = number can not be negative
 class Solution:
 
     def find_tailing_zeroes(self, number: int) -> int | str:
-        pass
+        if number < 0:
+            return "number can not be negative"
+        fac_result = 1
+        for i in range(2, number + 1):
+            fac_result *= i
+
+        digits = [int(d) for d in str(fac_result)]
+        zero_count = 0
+        for i in range(1, len(digits) + 1):
+            digit = digits[-i]
+            if digit == 0:
+                zero_count += 1
+            else:
+                break
+        return zero_count
