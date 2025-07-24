@@ -1,7 +1,7 @@
 from django.db import models
 
 from apis.enums.enums import Sex
-from apis.models.classrooms import ClassRooms
+from apis.models.classrooms_model import ClassRooms
 
 
 class Teachers(models.Model):
@@ -11,4 +11,4 @@ class Teachers(models.Model):
         max_length=10,
         choices=Sex.choices,
     )
-    class_room = models.ManyToManyField(ClassRooms)
+    class_room = models.ManyToManyField(ClassRooms, related_name="teachers")
