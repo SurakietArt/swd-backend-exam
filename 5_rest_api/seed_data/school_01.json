@@ -104,7 +104,7 @@
     "fields": {
       "name": "เชิงชาย",
       "last_name": "ทองสุกเลิศ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": [
         5,
         9
@@ -117,7 +117,7 @@
     "fields": {
       "name": "ภานุพล",
       "last_name": "ศรีวงค์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": [
         5,
         8,
@@ -131,7 +131,7 @@
     "fields": {
       "name": "ทิพย์วารี",
       "last_name": "คำลือ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": [
         3,
         4,
@@ -145,7 +145,7 @@
     "fields": {
       "name": "ประภัทร์สรณ์",
       "last_name": "ศรทอง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": [
         10
       ]
@@ -157,7 +157,7 @@
     "fields": {
       "name": "เทียมศักดิ์",
       "last_name": "จันทา",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": [
         2
       ]
@@ -169,7 +169,7 @@
     "fields": {
       "name": "จิรวิทย์",
       "last_name": "ทวนทอง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": []
     }
   },
@@ -179,7 +179,7 @@
     "fields": {
       "name": "ศดิศ",
       "last_name": "ไม้แดง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": [
         3
       ]
@@ -191,7 +191,7 @@
     "fields": {
       "name": "ธีรวัช",
       "last_name": "บุญส่ง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": [
         1,
         2
@@ -204,7 +204,7 @@
     "fields": {
       "name": "มัตติกา",
       "last_name": "เดชคุ้ม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": [
         1,
         3
@@ -217,7 +217,7 @@
     "fields": {
       "name": "ศศิยา",
       "last_name": "วุฑฒยากร",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": [
         2,
         10
@@ -230,7 +230,7 @@
     "fields": {
       "name": "บุญเกิด",
       "last_name": "นาถะพินธุ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": [
         8
       ]
@@ -242,7 +242,7 @@
     "fields": {
       "name": "ศจีกาญจน์",
       "last_name": "ตัณฑนุช",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": [
         7,
         9
@@ -255,7 +255,7 @@
     "fields": {
       "name": "ประยุทธ์",
       "last_name": "ทวีเดช",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": []
     }
   },
@@ -265,7 +265,7 @@
     "fields": {
       "name": "มูฮำมัด",
       "last_name": "นักสำหรวจ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": [
         4,
         6
@@ -278,7 +278,7 @@
     "fields": {
       "name": "อุลัยพร",
       "last_name": "บินดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": [
         4,
         6,
@@ -293,7 +293,7 @@
     "fields": {
       "name": "สโรชา",
       "last_name": "ขันธุลา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -303,7 +303,7 @@
     "fields": {
       "name": "รภัสพงษ์",
       "last_name": "นับเนื่องนอ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -313,7 +313,7 @@
     "fields": {
       "name": "กษิดิฐ",
       "last_name": "ทรัพย์สาร",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -323,7 +323,7 @@
     "fields": {
       "name": "เขมจิรา",
       "last_name": "สังข์กรด",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -333,7 +333,7 @@
     "fields": {
       "name": "คำปลิว",
       "last_name": "ฉัตรอภิเที่ยงค่ำ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -343,7 +343,7 @@
     "fields": {
       "name": "พศร",
       "last_name": "ทองปากน้ำ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -353,7 +353,7 @@
     "fields": {
       "name": "ราชันทร์",
       "last_name": "ร่มธิติรัตน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -363,7 +363,7 @@
     "fields": {
       "name": "ถนอมชัย",
       "last_name": "ธรรมทินนา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -373,7 +373,7 @@
     "fields": {
       "name": "โอภาส",
       "last_name": "นาฏคายี",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -383,7 +383,7 @@
     "fields": {
       "name": "ณปภัช",
       "last_name": "ทองปากน้ำ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -393,7 +393,7 @@
     "fields": {
       "name": "สิริกานต์",
       "last_name": "เมืองสุข",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -403,7 +403,7 @@
     "fields": {
       "name": "ณัฐพิชา",
       "last_name": "ยาปะโลหิต",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -413,7 +413,7 @@
     "fields": {
       "name": "อารีย์",
       "last_name": "ไทยสุชาต",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -423,7 +423,7 @@
     "fields": {
       "name": "รชตกร",
       "last_name": "แน่นดุจป้อม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -433,7 +433,7 @@
     "fields": {
       "name": "อรุณี",
       "last_name": "ร่มธิติรัตน์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -443,7 +443,7 @@
     "fields": {
       "name": "นิภา",
       "last_name": "นะวะมันดร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -453,7 +453,7 @@
     "fields": {
       "name": "ทับทิม",
       "last_name": "ตันยา",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -463,7 +463,7 @@
     "fields": {
       "name": "ฟารินี",
       "last_name": "ดวงทับทิม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -473,7 +473,7 @@
     "fields": {
       "name": "ธมลพรรณ",
       "last_name": "ถนิมมาศ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -483,7 +483,7 @@
     "fields": {
       "name": "ฉัตรปรียา",
       "last_name": "ทรัพย์ธำรงค์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -493,7 +493,7 @@
     "fields": {
       "name": "ดารุนี",
       "last_name": "บุญญาไลย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -503,7 +503,7 @@
     "fields": {
       "name": "บุญญกัลป์",
       "last_name": "นาคพันธุ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -513,7 +513,7 @@
     "fields": {
       "name": "จณิสตา",
       "last_name": "ทหารแท้",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -523,7 +523,7 @@
     "fields": {
       "name": "พีระพงศ์พันธ์",
       "last_name": "จ้อยนุแสง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -533,7 +533,7 @@
     "fields": {
       "name": "พุทธ",
       "last_name": "ถนัดกลึง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -543,7 +543,7 @@
     "fields": {
       "name": "สุรนัย",
       "last_name": "ธนูปกรณ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -553,7 +553,7 @@
     "fields": {
       "name": "นิรุตต์",
       "last_name": "เตชะกำพุ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -563,7 +563,7 @@
     "fields": {
       "name": "จด",
       "last_name": "ยะผา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -573,7 +573,7 @@
     "fields": {
       "name": "ปัณณวัชร",
       "last_name": "ถิรสวัสดิ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -583,7 +583,7 @@
     "fields": {
       "name": "แกมแพร",
       "last_name": "นับเนื่องนอ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -593,7 +593,7 @@
     "fields": {
       "name": "นิติยา",
       "last_name": "ยางสวย",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -603,7 +603,7 @@
     "fields": {
       "name": "ณัฐพิชา",
       "last_name": "ดุษฎีวนิช",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -613,7 +613,7 @@
     "fields": {
       "name": "เขมจิรา",
       "last_name": "นาควงษ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 1
     }
   },
@@ -623,7 +623,7 @@
     "fields": {
       "name": "จิราภรณ์",
       "last_name": "ขอหมั่นกลาง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -633,7 +633,7 @@
     "fields": {
       "name": "โยธิการ์",
       "last_name": "ตั้งกุลงาม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 1
     }
   },
@@ -643,7 +643,7 @@
     "fields": {
       "name": "อนุบาล",
       "last_name": "บุณยะภาชน์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -653,7 +653,7 @@
     "fields": {
       "name": "โชติวุฒิ",
       "last_name": "ดีตพันธุ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -663,7 +663,7 @@
     "fields": {
       "name": "สรายุทธ",
       "last_name": "ทองสีไพล",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -673,7 +673,7 @@
     "fields": {
       "name": "สหัสมณี",
       "last_name": "เขียวขุ้ย",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -683,7 +683,7 @@
     "fields": {
       "name": "ธีริสรา",
       "last_name": "ทวนไชย์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -693,7 +693,7 @@
     "fields": {
       "name": "ณิชาภัทร",
       "last_name": "ไสยกิจ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -703,7 +703,7 @@
     "fields": {
       "name": "สมพิศ",
       "last_name": "ชำนาญวาด",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -713,7 +713,7 @@
     "fields": {
       "name": "มลิวรรณ",
       "last_name": "ร่มธิติรัตน์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -723,7 +723,7 @@
     "fields": {
       "name": "กิติชัย",
       "last_name": "นาคสุทิน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -733,7 +733,7 @@
     "fields": {
       "name": "ปิยนาฎ",
       "last_name": "โพธิสัตย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -743,7 +743,7 @@
     "fields": {
       "name": "วิเชียร",
       "last_name": "นาคสุทิน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -753,7 +753,7 @@
     "fields": {
       "name": "โสภณิตา",
       "last_name": "ด้วงโสน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -763,7 +763,7 @@
     "fields": {
       "name": "อันธิกา",
       "last_name": "ถนัดการยนต์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -773,7 +773,7 @@
     "fields": {
       "name": "ฐิติยาพร",
       "last_name": "นาถะพินธุ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -783,7 +783,7 @@
     "fields": {
       "name": "โสภณ",
       "last_name": "ถนัดกลึง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -793,7 +793,7 @@
     "fields": {
       "name": "อภิลักษณ์",
       "last_name": "นับเนื่องนอ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -803,7 +803,7 @@
     "fields": {
       "name": "เกศรา",
       "last_name": "หิรัญสาลี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -813,7 +813,7 @@
     "fields": {
       "name": "จันทนา",
       "last_name": "ดาวอร่าม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -823,7 +823,7 @@
     "fields": {
       "name": "ปรมินทร์",
       "last_name": "ขุนดำ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -833,7 +833,7 @@
     "fields": {
       "name": "ยุศรอน",
       "last_name": "นิษประปัญจ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -843,7 +843,7 @@
     "fields": {
       "name": "นัสรุน",
       "last_name": "ถนัดเดินข่าว",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -853,7 +853,7 @@
     "fields": {
       "name": "เสรี",
       "last_name": "ติระคมน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -863,7 +863,7 @@
     "fields": {
       "name": "สุมัชญา",
       "last_name": "นิยมสำหรวจ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -873,7 +873,7 @@
     "fields": {
       "name": "พรสวรรค์",
       "last_name": "ศรีตะวัน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -883,7 +883,7 @@
     "fields": {
       "name": "นิรุตต์",
       "last_name": "ดาวอร่าม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -893,7 +893,7 @@
     "fields": {
       "name": "อับดุลเลาะห์",
       "last_name": "นิระหานี",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -903,7 +903,7 @@
     "fields": {
       "name": "บุญเกิด",
       "last_name": "ภูภักดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -913,7 +913,7 @@
     "fields": {
       "name": "เถลิงยศ",
       "last_name": "พงศ์ฉบับนภา",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -923,7 +923,7 @@
     "fields": {
       "name": "จริยฉัตร",
       "last_name": "ทุมะบุตร์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -933,7 +933,7 @@
     "fields": {
       "name": "ประภัทร์สรณ์",
       "last_name": "เณรานุสนธิ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -943,7 +943,7 @@
     "fields": {
       "name": "ปัณณธร",
       "last_name": "ศรีสัตย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 2
     }
   },
@@ -953,7 +953,7 @@
     "fields": {
       "name": "ปุณณรัตน์",
       "last_name": "ตรีเภรินทร์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 2
     }
   },
@@ -963,7 +963,7 @@
     "fields": {
       "name": "จิตตานันท์",
       "last_name": "ทัศนสุทธิ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -973,7 +973,7 @@
     "fields": {
       "name": "เจษฏาภรณ์",
       "last_name": "แจ้งสว่าง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -983,7 +983,7 @@
     "fields": {
       "name": "จักรีรัตน์",
       "last_name": "จันอ้น",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -993,7 +993,7 @@
     "fields": {
       "name": "ปิ่นบุญญา",
       "last_name": "นุชแนวนุ่ม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1003,7 +1003,7 @@
     "fields": {
       "name": "ยศวัฒน์",
       "last_name": "เลขะพันธุ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1013,7 +1013,7 @@
     "fields": {
       "name": "ผกาทิพย์",
       "last_name": "ถนัดการเขียน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1023,7 +1023,7 @@
     "fields": {
       "name": "กฤตเมธ",
       "last_name": "บุนยาภิสนท์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1033,7 +1033,7 @@
     "fields": {
       "name": "สุภาพร",
       "last_name": "พานเกล้า",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1043,7 +1043,7 @@
     "fields": {
       "name": "อุดมลักษณ์",
       "last_name": "นาถะพินธุ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1053,7 +1053,7 @@
     "fields": {
       "name": "ภานิณี",
       "last_name": "พรสีมา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1063,7 +1063,7 @@
     "fields": {
       "name": "เทพนารี",
       "last_name": "ทศโยธิน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1073,7 +1073,7 @@
     "fields": {
       "name": "วรินทธิ์ธร",
       "last_name": "ตันตราจิณ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1083,7 +1083,7 @@
     "fields": {
       "name": "อำพร",
       "last_name": "ดัตพันธุ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1093,7 +1093,7 @@
     "fields": {
       "name": "ภูมิปัญญา",
       "last_name": "นานายน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1103,7 +1103,7 @@
     "fields": {
       "name": "สนั่น",
       "last_name": "ศรีวงค์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1113,7 +1113,7 @@
     "fields": {
       "name": "โชคภาดล",
       "last_name": "ทวีเดช",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1123,7 +1123,7 @@
     "fields": {
       "name": "พันเทพ",
       "last_name": "พีระเพ็ญกุล",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1133,7 +1133,7 @@
     "fields": {
       "name": "พันเกล้า",
       "last_name": "ดิศดใน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1143,7 +1143,7 @@
     "fields": {
       "name": "สีหราช",
       "last_name": "ทวนไชย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1153,7 +1153,7 @@
     "fields": {
       "name": "ปฐวีกานต์",
       "last_name": "แนวพญา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1163,7 +1163,7 @@
     "fields": {
       "name": "อริสรา",
       "last_name": "ทองสุกเลิศ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1173,7 +1173,7 @@
     "fields": {
       "name": "โชคภาดล",
       "last_name": "นิลสุวรรณ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1183,7 +1183,7 @@
     "fields": {
       "name": "สิริกานต์",
       "last_name": "ถมังรักษสัตว์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1193,7 +1193,7 @@
     "fields": {
       "name": "สมปอง",
       "last_name": "คำลือ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1203,7 +1203,7 @@
     "fields": {
       "name": "เกศรา",
       "last_name": "สาระพันธ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1213,7 +1213,7 @@
     "fields": {
       "name": "ดิลก",
       "last_name": "ถาวระวรณ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1223,7 +1223,7 @@
     "fields": {
       "name": "ยุลิน",
       "last_name": "แน่นดุจป้อม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1233,7 +1233,7 @@
     "fields": {
       "name": "กฤตพร",
       "last_name": "ทันยุค",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1243,7 +1243,7 @@
     "fields": {
       "name": "ธารา",
       "last_name": "ไสยกิจ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1253,7 +1253,7 @@
     "fields": {
       "name": "ทับทิม",
       "last_name": "หอมพิกุล",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1263,7 +1263,7 @@
     "fields": {
       "name": "สิรวัฒน์",
       "last_name": "บุญศล",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1273,7 +1273,7 @@
     "fields": {
       "name": "กองสิน",
       "last_name": "ยะผา",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1283,7 +1283,7 @@
     "fields": {
       "name": "พิชญ์สินี",
       "last_name": "บุนยะตีรณะ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1293,7 +1293,7 @@
     "fields": {
       "name": "อรจิรา",
       "last_name": "อัตตนาถ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1303,7 +1303,7 @@
     "fields": {
       "name": "พิมพ์พิชญา",
       "last_name": "นาฏคายี",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1313,7 +1313,7 @@
     "fields": {
       "name": "ประยุทธ์",
       "last_name": "ถนัดรบ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1323,7 +1323,7 @@
     "fields": {
       "name": "ยูซุฟ",
       "last_name": "วะคีมัน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 3
     }
   },
@@ -1333,7 +1333,7 @@
     "fields": {
       "name": "เชิงชาย",
       "last_name": "ประจันตะเสน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 3
     }
   },
@@ -1343,7 +1343,7 @@
     "fields": {
       "name": "เจตธนากร",
       "last_name": "บุตดา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1353,7 +1353,7 @@
     "fields": {
       "name": "คำปลิว",
       "last_name": "ธรรมนิยม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1363,7 +1363,7 @@
     "fields": {
       "name": "นราวรรณ",
       "last_name": "ร่มธิติรัตน์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1373,7 +1373,7 @@
     "fields": {
       "name": "พันเทพ",
       "last_name": "ทับทิมไทย",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1383,7 +1383,7 @@
     "fields": {
       "name": "ปิยวัจน์",
       "last_name": "ธรรมสถิตไพศาล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1393,7 +1393,7 @@
     "fields": {
       "name": "วิเชียร",
       "last_name": "เลขะพันธุ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1403,7 +1403,7 @@
     "fields": {
       "name": "ใกล้รุ่ง",
       "last_name": "ไตรบรรพ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1413,7 +1413,7 @@
     "fields": {
       "name": "ศิริญา",
       "last_name": "ธาราธร",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1423,7 +1423,7 @@
     "fields": {
       "name": "อรรจน์",
       "last_name": "วะคีมัน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1433,7 +1433,7 @@
     "fields": {
       "name": "รักชนก",
       "last_name": "กุมารบุญ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1443,7 +1443,7 @@
     "fields": {
       "name": "นาตยา",
       "last_name": "ดัตพันธุ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1453,7 +1453,7 @@
     "fields": {
       "name": "คมกริบ",
       "last_name": "นวลฉวี",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1463,7 +1463,7 @@
     "fields": {
       "name": "ณัฐธิตา",
       "last_name": "นิระหานี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1473,7 +1473,7 @@
     "fields": {
       "name": "ประเสริฐ",
       "last_name": "บุญบำรุง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1483,7 +1483,7 @@
     "fields": {
       "name": "วรินทธิ์ธร",
       "last_name": "พีระเพ็ญกุล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1493,7 +1493,7 @@
     "fields": {
       "name": "ปุณณรัตน์",
       "last_name": "นรวิทย์โชติกุล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1503,7 +1503,7 @@
     "fields": {
       "name": "คำปลิว",
       "last_name": "ธูปะวิโรจน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1513,7 +1513,7 @@
     "fields": {
       "name": "เนตรฤดี",
       "last_name": "ธัญาโภชน์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1523,7 +1523,7 @@
     "fields": {
       "name": "นิมุ",
       "last_name": "ทองลาภ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1533,7 +1533,7 @@
     "fields": {
       "name": "นันทวุฒิ",
       "last_name": "ทับทิมไทย",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1543,7 +1543,7 @@
     "fields": {
       "name": "วรรณกร",
       "last_name": "ถนัดภาษา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1553,7 +1553,7 @@
     "fields": {
       "name": "หรรษา",
       "last_name": "เลขะพันธุ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1563,7 +1563,7 @@
     "fields": {
       "name": "สุรธัช",
       "last_name": "แต้กุล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1573,7 +1573,7 @@
     "fields": {
       "name": "ชิดชนก",
       "last_name": "นิษประปัญจ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1583,7 +1583,7 @@
     "fields": {
       "name": "เทพนารี",
       "last_name": "เนื้อนุ่ม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1593,7 +1593,7 @@
     "fields": {
       "name": "เจษฎากร",
       "last_name": "ศิวะวรเวท",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1603,7 +1603,7 @@
     "fields": {
       "name": "กวีฉัฏฐ",
       "last_name": "กุมารบุญ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1613,7 +1613,7 @@
     "fields": {
       "name": "ศศินา",
       "last_name": "นาถะพินธุ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1623,7 +1623,7 @@
     "fields": {
       "name": "สุรนีย์",
       "last_name": "ไทนิยม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 4
     }
   },
@@ -1633,7 +1633,7 @@
     "fields": {
       "name": "สันติราษฎร์",
       "last_name": "ศรีธนะเวทย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1643,7 +1643,7 @@
     "fields": {
       "name": "ประวี",
       "last_name": "เวียงจันทึก",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1653,7 +1653,7 @@
     "fields": {
       "name": "ยอดแมน",
       "last_name": "นาคสุทิน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 4
     }
   },
@@ -1663,7 +1663,7 @@
     "fields": {
       "name": "เกียรติศักดิ์",
       "last_name": "สังข์กรด",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1673,7 +1673,7 @@
     "fields": {
       "name": "พิพิธธน",
       "last_name": "ยะผา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1683,7 +1683,7 @@
     "fields": {
       "name": "ปวีณ",
       "last_name": "นาคะนคร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1693,7 +1693,7 @@
     "fields": {
       "name": "ไชยภพ",
       "last_name": "บุญศล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1703,7 +1703,7 @@
     "fields": {
       "name": "ศิรณัฐ",
       "last_name": "นาคสุทิน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1713,7 +1713,7 @@
     "fields": {
       "name": "อุดมลักษณ์",
       "last_name": "ร่มธิติรัตน์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1723,7 +1723,7 @@
     "fields": {
       "name": "ลักษมี",
       "last_name": "ตวันเยี่ยม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1733,7 +1733,7 @@
     "fields": {
       "name": "สมหมาย",
       "last_name": "ดาบเงิน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1743,7 +1743,7 @@
     "fields": {
       "name": "จีรยุทธ",
       "last_name": "สาระพันธ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1753,7 +1753,7 @@
     "fields": {
       "name": "ภัคชัญญา",
       "last_name": "บุญญาไลย์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1763,7 +1763,7 @@
     "fields": {
       "name": "พรชนก",
       "last_name": "ทีฆะ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1773,7 +1773,7 @@
     "fields": {
       "name": "จักรีรัตน์",
       "last_name": "บัวเผื่อน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1783,7 +1783,7 @@
     "fields": {
       "name": "กิ่งแก้ว",
       "last_name": "ชำนาญวาด",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1793,7 +1793,7 @@
     "fields": {
       "name": "คมคาย",
       "last_name": "พรสีมา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1803,7 +1803,7 @@
     "fields": {
       "name": "พิมพ์พิชญา",
       "last_name": "ทรัพย์ธำรงค์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1813,7 +1813,7 @@
     "fields": {
       "name": "ประไพพักตร์",
       "last_name": "เนื่องนนท์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1823,7 +1823,7 @@
     "fields": {
       "name": "ธนภณ",
       "last_name": "นวลฉวี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1833,7 +1833,7 @@
     "fields": {
       "name": "คำ",
       "last_name": "บุญศล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1843,7 +1843,7 @@
     "fields": {
       "name": "วรปรัชญ์",
       "last_name": "แถมธน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1853,7 +1853,7 @@
     "fields": {
       "name": "พัชรพร",
       "last_name": "นครเทพ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1863,7 +1863,7 @@
     "fields": {
       "name": "จักรกฤนาย",
       "last_name": "บุตราช",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1873,7 +1873,7 @@
     "fields": {
       "name": "ฮาฟิต",
       "last_name": "ทรัพย์ธำรงค์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1883,7 +1883,7 @@
     "fields": {
       "name": "ณภัทร",
       "last_name": "ร่มธิติรัตน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1893,7 +1893,7 @@
     "fields": {
       "name": "ประวี",
       "last_name": "ตระกูลไม้เรียง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1903,7 +1903,7 @@
     "fields": {
       "name": "สรายุทธ",
       "last_name": "ทรัพย์สาร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1913,7 +1913,7 @@
     "fields": {
       "name": "พลภูมิ",
       "last_name": "ตัณสถิตย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1923,7 +1923,7 @@
     "fields": {
       "name": "อณัฐตา",
       "last_name": "ถนัดการยนต์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1933,7 +1933,7 @@
     "fields": {
       "name": "มะลีวัลย์",
       "last_name": "จันอ้น",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1943,7 +1943,7 @@
     "fields": {
       "name": "พลานุช",
       "last_name": "ทับทิมไทย",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1953,7 +1953,7 @@
     "fields": {
       "name": "ทองรัตน์",
       "last_name": "ทองเนื้อดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1963,7 +1963,7 @@
     "fields": {
       "name": "เยาวรัตน์",
       "last_name": "ถนัดการยนต์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1973,7 +1973,7 @@
     "fields": {
       "name": "นันทิกานต์",
       "last_name": "ถ้วนศรี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -1983,7 +1983,7 @@
     "fields": {
       "name": "ธาเอก",
       "last_name": "บุญส่ง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -1993,7 +1993,7 @@
     "fields": {
       "name": "กิติยาธรณ์",
       "last_name": "แต้กุล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -2003,7 +2003,7 @@
     "fields": {
       "name": "พิพิธธน",
       "last_name": "อุ่นอก",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -2013,7 +2013,7 @@
     "fields": {
       "name": "มารีนี",
       "last_name": "หนักแน่น",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -2023,7 +2023,7 @@
     "fields": {
       "name": "นิรันดร์",
       "last_name": "ยะผา",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -2033,7 +2033,7 @@
     "fields": {
       "name": "กุลปรียา",
       "last_name": "กุมารบุญ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -2043,7 +2043,7 @@
     "fields": {
       "name": "ทับทิม",
       "last_name": "ตันตราจิณ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -2053,7 +2053,7 @@
     "fields": {
       "name": "จิม",
       "last_name": "ถนัดการเขียน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -2063,7 +2063,7 @@
     "fields": {
       "name": "สิทธิชัย",
       "last_name": "ดาบเงิน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -2073,7 +2073,7 @@
     "fields": {
       "name": "รัฐพงษ์",
       "last_name": "ถิรสวัสดิ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -2083,7 +2083,7 @@
     "fields": {
       "name": "วรรณกร",
       "last_name": "ทับทิมไทย",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 5
     }
   },
@@ -2093,7 +2093,7 @@
     "fields": {
       "name": "อนิวัฒน์",
       "last_name": "เลิศกิ่ง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 5
     }
   },
@@ -2103,7 +2103,7 @@
     "fields": {
       "name": "ฐิติยาพร",
       "last_name": "เขียวขุ้ย",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2113,7 +2113,7 @@
     "fields": {
       "name": "ทองสิริ",
       "last_name": "สุวรรณหงษ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2123,7 +2123,7 @@
     "fields": {
       "name": "เทพณรงค์",
       "last_name": "นาถะเดชะ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2133,7 +2133,7 @@
     "fields": {
       "name": "ชัชเวศย์",
       "last_name": "ถ้วนศรี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2143,7 +2143,7 @@
     "fields": {
       "name": "สินสมุทร",
       "last_name": "ไสยกิจ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2153,7 +2153,7 @@
     "fields": {
       "name": "ประเดิม",
       "last_name": "ศรีเผด็จ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2163,7 +2163,7 @@
     "fields": {
       "name": "ขวัญรุ้ง",
       "last_name": "ถนิมมาศ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2173,7 +2173,7 @@
     "fields": {
       "name": "สันติราษฎร์",
       "last_name": "ศรีธนะเวทย์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2183,7 +2183,7 @@
     "fields": {
       "name": "วาสุเทพ",
       "last_name": "ตั้งกุลงาม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2193,7 +2193,7 @@
     "fields": {
       "name": "ศิริเกศ",
       "last_name": "ยะผา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2203,7 +2203,7 @@
     "fields": {
       "name": "ประเดิม",
       "last_name": "ธูปะวิโรจน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2213,7 +2213,7 @@
     "fields": {
       "name": "สุพัตร",
       "last_name": "นาถะพินธุ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2223,7 +2223,7 @@
     "fields": {
       "name": "วรปรัชญ์",
       "last_name": "ธรรมทินนา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2233,7 +2233,7 @@
     "fields": {
       "name": "ธนภณ",
       "last_name": "บัวเผื่อน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2243,7 +2243,7 @@
     "fields": {
       "name": "คมสัน",
       "last_name": "นำธวัช",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2253,7 +2253,7 @@
     "fields": {
       "name": "อาซือมะ",
       "last_name": "ชุมวระ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2263,7 +2263,7 @@
     "fields": {
       "name": "ณัฐธิตา",
       "last_name": "นกทอง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2273,7 +2273,7 @@
     "fields": {
       "name": "นิมุ",
       "last_name": "ถนัดเดินข่าว",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2283,7 +2283,7 @@
     "fields": {
       "name": "ศุภกรชนา",
       "last_name": "นวลฉวี",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2293,7 +2293,7 @@
     "fields": {
       "name": "แปลง",
       "last_name": "ขอหมั่นกลาง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2303,7 +2303,7 @@
     "fields": {
       "name": "ปวีณ",
       "last_name": "ทวนไชย์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2313,7 +2313,7 @@
     "fields": {
       "name": "ภาสินี",
       "last_name": "ดุริยพันธุ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2323,7 +2323,7 @@
     "fields": {
       "name": "สมหมาย",
       "last_name": "ถนอมมนุษย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2333,7 +2333,7 @@
     "fields": {
       "name": "เรืองเกียรติ",
       "last_name": "งามพิเชษฐ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2343,7 +2343,7 @@
     "fields": {
       "name": "สุภาลินี",
       "last_name": "ธนรักษ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2353,7 +2353,7 @@
     "fields": {
       "name": "วณัฐดา",
       "last_name": "ไทยแท้",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2363,7 +2363,7 @@
     "fields": {
       "name": "ปุณณรัตน์",
       "last_name": "บุตราช",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2373,7 +2373,7 @@
     "fields": {
       "name": "ยุศรอน",
       "last_name": "เนื้อนุ่ม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2383,7 +2383,7 @@
     "fields": {
       "name": "วณัฐดา",
       "last_name": "เณรานุสนธิ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2393,7 +2393,7 @@
     "fields": {
       "name": "สุมัชญา",
       "last_name": "โพธิสัตย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2403,7 +2403,7 @@
     "fields": {
       "name": "โรสชา",
       "last_name": "ถนอมกุลบุตร",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2413,7 +2413,7 @@
     "fields": {
       "name": "เพ็ญพรรษา",
       "last_name": "มนทอง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2423,7 +2423,7 @@
     "fields": {
       "name": "อินทรีย์",
       "last_name": "ตวงทอง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2433,7 +2433,7 @@
     "fields": {
       "name": "ทิมาภรณ์",
       "last_name": "นาคสุทิน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2443,7 +2443,7 @@
     "fields": {
       "name": "สมนึก",
       "last_name": "ไสยกิจ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2453,7 +2453,7 @@
     "fields": {
       "name": "ศรินยา",
       "last_name": "นิยมธรรม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2463,7 +2463,7 @@
     "fields": {
       "name": "นิรันดร์",
       "last_name": "เช้าวันดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2473,7 +2473,7 @@
     "fields": {
       "name": "ธีริสรา",
       "last_name": "นพตระกูล",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2483,7 +2483,7 @@
     "fields": {
       "name": "ธีริสรา",
       "last_name": "เช้าวันดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2493,7 +2493,7 @@
     "fields": {
       "name": "ธัญญามาศ",
       "last_name": "บุณยะภาชน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2503,7 +2503,7 @@
     "fields": {
       "name": "โกวิทย์",
       "last_name": "ศรีตะวัน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2513,7 +2513,7 @@
     "fields": {
       "name": "ฐิติณัฐฐา",
       "last_name": "นครเทพ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2523,7 +2523,7 @@
     "fields": {
       "name": "เกียรติศักดิ์",
       "last_name": "นิลสลัว",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 6
     }
   },
@@ -2533,7 +2533,7 @@
     "fields": {
       "name": "มารุด",
       "last_name": "คณานุรักษ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2543,7 +2543,7 @@
     "fields": {
       "name": "ฉัตรปรียา",
       "last_name": "นิลวรรณ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 6
     }
   },
@@ -2553,7 +2553,7 @@
     "fields": {
       "name": "ภัคชนน",
       "last_name": "ดาบเงิน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2563,7 +2563,7 @@
     "fields": {
       "name": "ภูวัน",
       "last_name": "ถนัดการยนต์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2573,7 +2573,7 @@
     "fields": {
       "name": "ฉัตรปรียา",
       "last_name": "ยะผา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2583,7 +2583,7 @@
     "fields": {
       "name": "วนาลี",
       "last_name": "เช้าวันดี",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2593,7 +2593,7 @@
     "fields": {
       "name": "พงษ์นเรศ",
       "last_name": "นพคเชนทร์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2603,7 +2603,7 @@
     "fields": {
       "name": "บุญญกัลป์",
       "last_name": "บุญญาไลย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2613,7 +2613,7 @@
     "fields": {
       "name": "น้ำเพชร",
       "last_name": "บุนยะตีรณะ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2623,7 +2623,7 @@
     "fields": {
       "name": "ฌาฆีภัตฐ์",
       "last_name": "ทองเนื้อดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2633,7 +2633,7 @@
     "fields": {
       "name": "วิเชียร",
       "last_name": "ตั้งเผ่า",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2643,7 +2643,7 @@
     "fields": {
       "name": "ณิชนันท์",
       "last_name": "เขียวขุ้ย",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2653,7 +2653,7 @@
     "fields": {
       "name": "โกมล",
       "last_name": "ไชยภา",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2663,7 +2663,7 @@
     "fields": {
       "name": "กษิดิฐ",
       "last_name": "ศาสตร์ศิลป์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2673,7 +2673,7 @@
     "fields": {
       "name": "กฤตเมธ",
       "last_name": "ทองแท้",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2683,7 +2683,7 @@
     "fields": {
       "name": "อัญธิกา",
       "last_name": "ขอหมั่นกลาง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2693,7 +2693,7 @@
     "fields": {
       "name": "ธนกิตต์",
       "last_name": "ฉัพพรรณธนกูร",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2703,7 +2703,7 @@
     "fields": {
       "name": "ชิดชนก",
       "last_name": "ไทยแท้",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2713,7 +2713,7 @@
     "fields": {
       "name": "นารดา",
       "last_name": "แหยมศิริ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2723,7 +2723,7 @@
     "fields": {
       "name": "กรพนธ์",
       "last_name": "ปานสุวรรณ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2733,7 +2733,7 @@
     "fields": {
       "name": "ศรินยา",
       "last_name": "สุวรรณหงษ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2743,7 +2743,7 @@
     "fields": {
       "name": "ประวี",
       "last_name": "ปรีชากุลเศรษฐ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2753,7 +2753,7 @@
     "fields": {
       "name": "ณัฐติญา",
       "last_name": "ด้วงโสน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2763,7 +2763,7 @@
     "fields": {
       "name": "อภิลักษณ์",
       "last_name": "ดิสกะประกาย",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2773,7 +2773,7 @@
     "fields": {
       "name": "ใกล้รุ่ง",
       "last_name": "ขุนดำ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2783,7 +2783,7 @@
     "fields": {
       "name": "เมษา",
       "last_name": "คณานุรักษ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2793,7 +2793,7 @@
     "fields": {
       "name": "มารุด",
       "last_name": "ขอหมั่นกลาง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2803,7 +2803,7 @@
     "fields": {
       "name": "สุมัชญา",
       "last_name": "ตระกูลบุญ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2813,7 +2813,7 @@
     "fields": {
       "name": "พิศพรรณ",
       "last_name": "หนุนสุข",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2823,7 +2823,7 @@
     "fields": {
       "name": "จินต์จุฑา",
       "last_name": "อุ่นอก",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2833,7 +2833,7 @@
     "fields": {
       "name": "คำปลิว",
       "last_name": "ไชยภา",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2843,7 +2843,7 @@
     "fields": {
       "name": "กิติกานต์",
       "last_name": "นิษประปัญจ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2853,7 +2853,7 @@
     "fields": {
       "name": "ยูซุฟ",
       "last_name": "ชุมวระ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2863,7 +2863,7 @@
     "fields": {
       "name": "สุพนธ์",
       "last_name": "เณรานุสนธิ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2873,7 +2873,7 @@
     "fields": {
       "name": "ภานิณี",
       "last_name": "นรวิทย์โชติกุล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2883,7 +2883,7 @@
     "fields": {
       "name": "ประภัทร์สรณ์",
       "last_name": "ดาวอร่าม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2893,7 +2893,7 @@
     "fields": {
       "name": "อัษฏา",
       "last_name": "วิลาสินี",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2903,7 +2903,7 @@
     "fields": {
       "name": "จิราภรณ์",
       "last_name": "บุตราช",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2913,7 +2913,7 @@
     "fields": {
       "name": "ปัณณวัชร",
       "last_name": "ดีตพันธุ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2923,7 +2923,7 @@
     "fields": {
       "name": "เขียว",
       "last_name": "ทีฆะ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2933,7 +2933,7 @@
     "fields": {
       "name": "วิพุธ",
       "last_name": "นำธวัช",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2943,7 +2943,7 @@
     "fields": {
       "name": "นิมุ",
       "last_name": "สุวรรณหงษ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2953,7 +2953,7 @@
     "fields": {
       "name": "ทับทิม",
       "last_name": "ติระคมน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2963,7 +2963,7 @@
     "fields": {
       "name": "จิฬาภรณ์",
       "last_name": "วาทา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2973,7 +2973,7 @@
     "fields": {
       "name": "ธนวันต์",
       "last_name": "ปานสุวรรณ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -2983,7 +2983,7 @@
     "fields": {
       "name": "ณิชาภัทร",
       "last_name": "ศรีวงค์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -2993,7 +2993,7 @@
     "fields": {
       "name": "ธมน",
       "last_name": "ซูสารอ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -3003,7 +3003,7 @@
     "fields": {
       "name": "ปัณณธร",
       "last_name": "นิติสาขา",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -3013,7 +3013,7 @@
     "fields": {
       "name": "ศรินยา",
       "last_name": "นิลวรรณ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -3023,7 +3023,7 @@
     "fields": {
       "name": "ปิยะนันท์",
       "last_name": "ทองสินธุ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 7
     }
   },
@@ -3033,7 +3033,7 @@
     "fields": {
       "name": "ดิลก",
       "last_name": "ดาวอร่าม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 7
     }
   },
@@ -3043,7 +3043,7 @@
     "fields": {
       "name": "วรรณรัตน์",
       "last_name": "สันตะวงศ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3053,7 +3053,7 @@
     "fields": {
       "name": "พรชนก",
       "last_name": "บินดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3063,7 +3063,7 @@
     "fields": {
       "name": "จิราภรณ์",
       "last_name": "ถนัดการเขียน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3073,7 +3073,7 @@
     "fields": {
       "name": "ธเนษฐ",
       "last_name": "นวลเพ็ง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3083,7 +3083,7 @@
     "fields": {
       "name": "กะดิรัตน์",
       "last_name": "ถาวรรัตน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3093,7 +3093,7 @@
     "fields": {
       "name": "คำปลิว",
       "last_name": "หิรัญสาลี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3103,7 +3103,7 @@
     "fields": {
       "name": "จริยฉัตร",
       "last_name": "คำลือ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3113,7 +3113,7 @@
     "fields": {
       "name": "อุษณีย์",
       "last_name": "ขำเอนก",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3123,7 +3123,7 @@
     "fields": {
       "name": "ธนกิตต์",
       "last_name": "ถนัดเดินข่าว",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3133,7 +3133,7 @@
     "fields": {
       "name": "ธีรลักษณ์",
       "last_name": "นากกนก",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3143,7 +3143,7 @@
     "fields": {
       "name": "อภิลักษณ์",
       "last_name": "ไสยกิจ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3153,7 +3153,7 @@
     "fields": {
       "name": "พัสวี",
       "last_name": "ตรีเภรินทร์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3163,7 +3163,7 @@
     "fields": {
       "name": "เพ็ญพรรษา",
       "last_name": "นาควงษ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3173,7 +3173,7 @@
     "fields": {
       "name": "ถนอมชัย",
       "last_name": "อุ่นอก",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3183,7 +3183,7 @@
     "fields": {
       "name": "เกียรติศักดิ์",
       "last_name": "ศรีสัตย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3193,7 +3193,7 @@
     "fields": {
       "name": "กะดิรัตน์",
       "last_name": "พีระเพ็ญกุล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3203,7 +3203,7 @@
     "fields": {
       "name": "เอนกพงศ์",
       "last_name": "ยะผา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3213,7 +3213,7 @@
     "fields": {
       "name": "พรชนก",
       "last_name": "ถาวรรัตน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3223,7 +3223,7 @@
     "fields": {
       "name": "เทพณรงค์",
       "last_name": "ไชยภา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3233,7 +3233,7 @@
     "fields": {
       "name": "ณิชนันท์",
       "last_name": "ถนัดเดินข่าว",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3243,7 +3243,7 @@
     "fields": {
       "name": "อุดมลักษณ์",
       "last_name": "ทรงโกมล",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3253,7 +3253,7 @@
     "fields": {
       "name": "จุฑาภรณ์",
       "last_name": "เตชะกำพุ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3263,7 +3263,7 @@
     "fields": {
       "name": "ซุกรี",
       "last_name": "นากกนก",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3273,7 +3273,7 @@
     "fields": {
       "name": "อารีย์",
       "last_name": "ทวีเดช",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3283,7 +3283,7 @@
     "fields": {
       "name": "เฉลิมพล",
       "last_name": "แน่นดุจป้อม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3293,7 +3293,7 @@
     "fields": {
       "name": "เพียงกมล",
       "last_name": "ดุษฎีวนิช",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3303,7 +3303,7 @@
     "fields": {
       "name": "วรินทธิ์ธร",
       "last_name": "บุญญาไลย์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3313,7 +3313,7 @@
     "fields": {
       "name": "ประภัทร์สรณ์",
       "last_name": "ฉัพพรรณธนกูร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3323,7 +3323,7 @@
     "fields": {
       "name": "ใจกลาง",
       "last_name": "แนวพนิช",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3333,7 +3333,7 @@
     "fields": {
       "name": "วรรณนิสา",
       "last_name": "นักรบ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 8
     }
   },
@@ -3343,7 +3343,7 @@
     "fields": {
       "name": "ศิรินันท์",
       "last_name": "ขอหมั่นกลาง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 8
     }
   },
@@ -3353,7 +3353,7 @@
     "fields": {
       "name": "นวรรษนันท์",
       "last_name": "ถนัดอักษร",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3363,7 +3363,7 @@
     "fields": {
       "name": "ราณี",
       "last_name": "วุฑฒยากร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3373,7 +3373,7 @@
     "fields": {
       "name": "เสรี",
       "last_name": "ถมปัด",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3383,7 +3383,7 @@
     "fields": {
       "name": "ฌาฆีภัตฐ์",
       "last_name": "เขียวขุ้ย",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3393,7 +3393,7 @@
     "fields": {
       "name": "สุรวัช",
       "last_name": "นฤภัย",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3403,7 +3403,7 @@
     "fields": {
       "name": "พงษ์นเรศ",
       "last_name": "นิลสุวรรณ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3413,7 +3413,7 @@
     "fields": {
       "name": "กุลภาวลัย",
       "last_name": "นิยมเซียม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3423,7 +3423,7 @@
     "fields": {
       "name": "มลิวรรณ",
       "last_name": "นุตตาร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3433,7 +3433,7 @@
     "fields": {
       "name": "อันธิกา",
       "last_name": "ถนอมพล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3443,7 +3443,7 @@
     "fields": {
       "name": "อดิสรณ์",
       "last_name": "หนุนสุข",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3453,7 +3453,7 @@
     "fields": {
       "name": "ศุภาศิล",
       "last_name": "สันตะวงศ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3463,7 +3463,7 @@
     "fields": {
       "name": "พรปราณี",
       "last_name": "นิติสาขา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3473,7 +3473,7 @@
     "fields": {
       "name": "สุชิน",
       "last_name": "หอมพิกุล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3483,7 +3483,7 @@
     "fields": {
       "name": "ศรีสวัสดิ์",
       "last_name": "ร่มธิติรัตน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3493,7 +3493,7 @@
     "fields": {
       "name": "ทรรศนชัย",
       "last_name": "ถ้วนศรี",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3503,7 +3503,7 @@
     "fields": {
       "name": "ราชพฤกษ์",
       "last_name": "วุฑฒยากร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3513,7 +3513,7 @@
     "fields": {
       "name": "นิติ",
       "last_name": "ถมปัด",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3523,7 +3523,7 @@
     "fields": {
       "name": "ดิลก",
       "last_name": "ทศโยธิน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3533,7 +3533,7 @@
     "fields": {
       "name": "เมษา",
       "last_name": "เช้าวันดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3543,7 +3543,7 @@
     "fields": {
       "name": "เกริกพล",
       "last_name": "ตระกูลไม้เรียง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3553,7 +3553,7 @@
     "fields": {
       "name": "ณัฐธิตา",
       "last_name": "ธนประทีป",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3563,7 +3563,7 @@
     "fields": {
       "name": "วิรศักดิ์",
       "last_name": "ประจันตะเสน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3573,7 +3573,7 @@
     "fields": {
       "name": "พัชรีนิษฐ์",
       "last_name": "นครเทพ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3583,7 +3583,7 @@
     "fields": {
       "name": "ภควัฒน์",
       "last_name": "ตั้งกุลงาม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3593,7 +3593,7 @@
     "fields": {
       "name": "ตอฮา",
       "last_name": "ถมปัด",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3603,7 +3603,7 @@
     "fields": {
       "name": "ภาสินี",
       "last_name": "เมืองสุข",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3613,7 +3613,7 @@
     "fields": {
       "name": "สีหราช",
       "last_name": "นุตตาร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3623,7 +3623,7 @@
     "fields": {
       "name": "โสภา",
       "last_name": "เขียวอ่อน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3633,7 +3633,7 @@
     "fields": {
       "name": "กวีฉัฏฐ",
       "last_name": "นุตตาร",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3643,7 +3643,7 @@
     "fields": {
       "name": "จันทภา",
       "last_name": "นิลสลัว",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3653,7 +3653,7 @@
     "fields": {
       "name": "ปัณณวัชร",
       "last_name": "ธุวะนุติ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3663,7 +3663,7 @@
     "fields": {
       "name": "จักรกฤนาย",
       "last_name": "ติณรัตน์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3673,7 +3673,7 @@
     "fields": {
       "name": "นิติยา",
       "last_name": "ทับทิมไทย",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3683,7 +3683,7 @@
     "fields": {
       "name": "อริสรา",
       "last_name": "ตันยา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3693,7 +3693,7 @@
     "fields": {
       "name": "เพ็ญยุภา",
       "last_name": "นวลเพ็ง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3703,7 +3703,7 @@
     "fields": {
       "name": "เทพนารี",
       "last_name": "นาฏคายี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3713,7 +3713,7 @@
     "fields": {
       "name": "พาสุข",
       "last_name": "ดวงทับทิม",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3723,7 +3723,7 @@
     "fields": {
       "name": "วิรศักดิ์",
       "last_name": "ดาวอร่าม",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 9
     }
   },
@@ -3733,7 +3733,7 @@
     "fields": {
       "name": "ภานิณี",
       "last_name": "ทองปากน้ำ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 9
     }
   },
@@ -3743,7 +3743,7 @@
     "fields": {
       "name": "เพียงกมล",
       "last_name": "ถาวรรัตน",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3753,7 +3753,7 @@
     "fields": {
       "name": "ธัญญกัญญา",
       "last_name": "บุญส่ง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3763,7 +3763,7 @@
     "fields": {
       "name": "ซูฮัยดา",
       "last_name": "บุญส่ง",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3773,7 +3773,7 @@
     "fields": {
       "name": "คำปลิว",
       "last_name": "ไทยแท้",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3783,7 +3783,7 @@
     "fields": {
       "name": "ซูไรดา",
       "last_name": "แหยมศิริ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3793,7 +3793,7 @@
     "fields": {
       "name": "วาร์มูฮำหมัด",
       "last_name": "เตมิยะเดช",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3803,7 +3803,7 @@
     "fields": {
       "name": "บุญพา",
       "last_name": "เนื่องนนท์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3813,7 +3813,7 @@
     "fields": {
       "name": "จันทนา",
       "last_name": "นรวิทย์โชติกุล",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3823,7 +3823,7 @@
     "fields": {
       "name": "อัครพนธ์",
       "last_name": "ดาบเพ็ชร์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3833,7 +3833,7 @@
     "fields": {
       "name": "สุพัตร",
       "last_name": "เวียงจันทึก",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3843,7 +3843,7 @@
     "fields": {
       "name": "อำพร",
       "last_name": "ธาราธร",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3853,7 +3853,7 @@
     "fields": {
       "name": "หฤทัย",
       "last_name": "ขำเอนก",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3863,7 +3863,7 @@
     "fields": {
       "name": "ปาริตา",
       "last_name": "นิยมสำหรวจ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3873,7 +3873,7 @@
     "fields": {
       "name": "ใจกลาง",
       "last_name": "เช้าวันดี",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3883,7 +3883,7 @@
     "fields": {
       "name": "รภัสพงษ์",
       "last_name": "ถาวระวรณ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3893,7 +3893,7 @@
     "fields": {
       "name": "สุทธิพจน์",
       "last_name": "คำลือ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3903,7 +3903,7 @@
     "fields": {
       "name": "ภัคชัญญา",
       "last_name": "นิษประปัญจ์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3913,7 +3913,7 @@
     "fields": {
       "name": "ภัทราวุธ",
       "last_name": "ทหารแท้",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3923,7 +3923,7 @@
     "fields": {
       "name": "เทพณรงค์",
       "last_name": "ถนัดอาวุธ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3933,7 +3933,7 @@
     "fields": {
       "name": "สิรวัฒน์",
       "last_name": "ดาบเงิน",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3943,7 +3943,7 @@
     "fields": {
       "name": "เกริกพล",
       "last_name": "ทำประดู่",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3953,7 +3953,7 @@
     "fields": {
       "name": "มัตติกา",
       "last_name": "เยาวธนโชค",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3963,7 +3963,7 @@
     "fields": {
       "name": "กิติชัย",
       "last_name": "ถนัดรบ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3973,7 +3973,7 @@
     "fields": {
       "name": "ทินวัฒน์",
       "last_name": "อัตตนาถ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -3983,7 +3983,7 @@
     "fields": {
       "name": "ธนภณ",
       "last_name": "นาถะพินธุ",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -3993,7 +3993,7 @@
     "fields": {
       "name": "ตรีนุช",
       "last_name": "ถนิมมาศ",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -4003,7 +4003,7 @@
     "fields": {
       "name": "ปัญญาพร",
       "last_name": "เนื่องนนท์",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   },
@@ -4013,7 +4013,7 @@
     "fields": {
       "name": "จิตตานันท์",
       "last_name": "ปรีชากุลเศรษฐ์",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -4023,7 +4023,7 @@
     "fields": {
       "name": "อนิวัฒน์",
       "last_name": "ตวงทอง",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -4033,7 +4033,7 @@
     "fields": {
       "name": "นัสรุน",
       "last_name": "ชำนาญวาด",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -4043,7 +4043,7 @@
     "fields": {
       "name": "อัครพนธ์",
       "last_name": "หอมพิกุล",
-      "sex": "MALE",
+      "sex": "Man",
       "class_room": 10
     }
   },
@@ -4053,7 +4053,7 @@
     "fields": {
       "name": "ทานตะวัน",
       "last_name": "วาทา",
-      "sex": "FEMALE",
+      "sex": "Woman",
       "class_room": 10
     }
   }
